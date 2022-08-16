@@ -1,0 +1,19 @@
+# Offboarding
+
+We are delighted to have been a part of your research life. We wish you great laurels as you move on to the next phase of your career.
+
+Please make sure you have checked these boxes before leaving our group.
+
+-   [ ] All your code is on GitHub
+
+-   [ ] All your processed data files/figures/reports (\<100mb) are on GitHub
+
+-   [ ] Large data files (raw/processed) are on the server (and backed up)
+
+-   [ ] All your scripts and data files are well-annotated with appropriate README files
+
+-   [ ] Added detailed status report of where things -- what was tried, what worked/didn't work, where the scripts/data files are, what remains to be done (within the scope of the project, and clear next steps)
+
+-   [ ] You have reoriented me and at least 1-2 other project members with the precise status (and next steps) of the project and location of files
+
+-   [ ] You are not a full member of the GitHub organization or Slack anymore but will retain access to the project channel/repo until publication.

@@ -1,0 +1,74 @@
+# Onboarding
+
+Welcome to JRaviLab! We are excited that you are here --- as a student, postdoc, or a visiting researcher!
+
+# Slack
+
+First and foremost, let's get you on our [Slack](jravilab.slack.com). All our conversations & every last bit of science gets done here! :) So, please install this on your desktops (phones) and turn on notifications during working hours, whenever that is!
+
+## Getting started
+
+When you join, please introduce yourself in `#general`. Tell us a little about yourself here --- where you are from, what are your interests -- science-wise or otherwise, why are you interested in working with us, and in what capacity you'll be joining us.
+
+I've never used Slack \-- where do I even start? Maybe you can start with the [Slack cheatsheet](https://github.com/JRaviLab/cheatsheets/blob/master/slack-misc/slack-cheatsheet.pdf) and [Keyboard shortcuts](https://slack.com/help/articles/201374536-Slack-keyboard-shortcuts).
+
+## What next?
+
+Next, you can join the different channels to participate in various kinds of conversations with the group --- look at the channel description, check out the pinned messages of the channel, and dive right in! Here are a few examples.
+
+Finally, you will be invited to specific project channels (based on the primary and secondary projects you will be working on). Based on chats with your colleagues, if you'd like to contribute to/give feedback to other projects, feel free to join those channels too.
+
+## 💡Tips
+
+### Learning R
+
+If you are new to R programming, join the `#bootcamp` channel. Use the `#howto-x` channels to ask for help/answer others' questions on R/Py programming, shell scripting, version controlling, or anything else that's general and not project-specific.
+
+Check out the Slack tips in the pinned posts in [#how-to-git](https://jravilab.slack.com/archives/CATMCKFT9) to get oriented since you are new to Slack. The channel used to be #how-to-slack!
+
+To learn R, I would recommend getting started with the pinned posts in [#courses-primers](https://jravilab.slack.com/archives/CARJ72W3U).\
+A couple of helpful GitHub repositories
+
+-   <https://github.com/jananiravi/compbio-gists> (R/Python/Unix/vi/GitHub)
+
+-   <https://github.com/jananiravi/workshop-tidyverse> (Intro to `R's tidyverse package` --- very useful to learn right away)
+
+-   Other R workshop materials from our R-Ladies East Lansing chapter: <https://github.com/rladies-eastlansing>
+
+-   Interactive tutorials with [learnr](https://rstudio.github.io/learnr/) & [swirl](https://swirlstats.com/).
+
+-   [R for Genomics from Data Carpentry](https://datacarpentry.org/R-genomics/index.html)
+
+-   Coursera
+
+    -   [Intro to R programming and tidyverse](https://www.coursera.org/learn/r-programming-tidyverse)
+
+    -   [Data visualization and Dashboarding with R specialization](https://www.coursera.org/specializations/jhu-data-visualization-dashboarding-with-r)
+
+    -   [Getting Started with Data Visualization in R](https://www.coursera.org/learn/jhu-getting-started-data-viz-r)
+
+    -   ... and more \| explore by topic, duration, skill-level
+
+📌 Go-to books (also in pinned posts on Slack)
+
+-   [R for Data Science](https://r4ds.had.co.nz/) (for tidyverse and such)
+
+-   [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) (for base R)
+
+# GitHub
+
+If you haven't already, please create a professional GitHub account (*e.g.,* `jananiravi`). Once you pass that along to us, we will you add you to the [JRaviLab GitHub organization](//github.com/jravilab). Also, a neat memorable username will give you the opportunity to host your own webpage (*e.g.,* `jravilab.github.io` or `jananiravi.github.io`).
+
+Intro to Git, GitHub resources
+
+-   <https://happygitwithr.com/> Happy Git and GitHub for the useR (connecting git/GitHub w/ R)
+
+-   [Git and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources) from GitHub
+
+-   [Git 101](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+
+-   [Coursera Intro to Git and GitHub course](https://www.coursera.org/learn/introduction-git-github)
+
+## VPN
+
+https://www.ucdenver.edu/offices/office-of-information-technology/software/how-do-i-use/vpn-and-remote-access

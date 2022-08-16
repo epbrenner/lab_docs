@@ -1,0 +1,27 @@
+project:
+  type: book
+
+book:
+  title: "Lab setup"
+  subtitle: "JRaviLab and KrishnanLab"
+  author: "Janani Ravi"
+  author: "Arjun Krishnan"
+  date: `r date()`
+  chapters:
+    - index.qmd
+    - onboarding.qmd
+    - meetings.qmd
+    - resources.qmd
+    - offboarding.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
