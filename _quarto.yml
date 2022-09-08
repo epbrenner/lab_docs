@@ -11,8 +11,8 @@ book:
   chapters:
     - index.qmd
     - onboarding.qmd
-    - meetings.qmd
     - resources.qmd
+    - meetings.qmd
     - offboarding.qmd
     - references.qmd
 

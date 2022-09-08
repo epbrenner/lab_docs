@@ -1,3 +1,45 @@
 # Meetings
 
-Associated repo: \[group\](https://github.com/jravilab/group)
+Please update this semester's meeting schedule [here](https://github.com/JRaviLab/group/tree/master/meetings).
+
+## Format
+_Some logistics_
+
+- GitHub issues/project for detailed project to-do's
+- Shared Outlook Calendar for meetings, deadlines, RLEL & other events!
+- Semester planning meeting (once per sem, during the first month)
+- Slack for everything else! 😃
+
+### Monthly Group Meetings
+TBD
+
+We usually go around the table, and give quick 5min progress updates from the week before. Alternative, we have scheduled research updates/journal club presentations each month. We could also do separate monthly journal clubs in addition to group meetings.
+
+### Co-work Sessions 💻
+TBD | whole group / project sub-groups / course-mates / bioinfo primer folks
+
+### Monthly Group Socials ☕ 🍵 🥐
+TBD
+
+- Random discussions/catch-up
+- Online games: https://jackbox.tv | https://drawbattle.io
+- Coffee/tea or ice cream for local folks
+- Once in a while, we can dedicate the group socials to fun topics close to your heart (e.g., music, sports, books, food, ...)!
+
+### Monthly/Weekly individual check-ins:
+Book via [calendly](https://calendly.com/jananiravi)
+
+### Project meetings (15min per person)
+
+- MolEvolvR | TBD
+- Drugrep | TBD
+- AMR | TBD
+- START | TBD
+- Software engg | TBD
+
+### Collaborations
+- Mycobacteria | Mon, 1–2p EST (biweekly) | w/ OliveLab
+- Staphylococci | Tue, 11–11.30a EST (weekly) | w/ HammerLab
+- Legionella | Wed, 11–12p EST (monthly) | weekly from 2023 | w/ ShamesLab
+- EEPID | Fri, 11-11.30a EST (weekly) | w/ WaleLab
+- Flaviviruses | Starting 2023 | w/ ShahLab
