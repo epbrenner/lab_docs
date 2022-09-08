@@ -1,12 +1,13 @@
 project:
   type: book
+  #type: website
+  output-dir: docs
 
 book:
   title: "Lab setup"
-  subtitle: "JRaviLab and KrishnanLab"
+  subtitle: "JRaviLab"
   author: "Janani Ravi"
-  author: "Arjun Krishnan"
-  date: `r date()`
+  #date: `r date()`
   chapters:
     - index.qmd
     - onboarding.qmd

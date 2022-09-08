@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>JRaviLab - 1&nbsp; Onboarding</title>
+<title>Lab setup - 1&nbsp; Onboarding</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -78,7 +78,7 @@ ul.task-list{list-style: none;}
   <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
-      <a href="./">JRaviLab</a> 
+      <a href="./">Lab setup</a> 
     </div>
       </div>
       <div class="mt-2 flex-shrink-0 align-items-center">
@@ -90,7 +90,7 @@ ul.task-list{list-style: none;}
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link">JRaviLab: behind the scenes</a>
+  <a href="./index.html" class="sidebar-item-text sidebar-link">JRaviLab</a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -100,7 +100,7 @@ ul.task-list{list-style: none;}
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./meetings.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">meetings.html</span></a>
+  <a href="./meetings.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Meetings</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -136,7 +136,10 @@ ul.task-list{list-style: none;}
   <li><a href="#learning-r" id="toc-learning-r" class="nav-link" data-scroll-target="#learning-r"> <span class="header-section-number">2.3.1</span> Learning R</a></li>
   </ul></li>
   </ul></li>
-  <li><a href="#github" id="toc-github" class="nav-link" data-scroll-target="#github"> <span class="header-section-number">3</span> GitHub</a></li>
+  <li><a href="#github" id="toc-github" class="nav-link" data-scroll-target="#github"> <span class="header-section-number">3</span> GitHub</a>
+  <ul class="collapse">
+  <li><a href="#vpn" id="toc-vpn" class="nav-link" data-scroll-target="#vpn"> <span class="header-section-number">3.1</span> VPN</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -166,8 +169,7 @@ ul.task-list{list-style: none;}
 <section id="getting-started" class="level2" data-number="2.1">
 <h2 data-number="2.1" class="anchored" data-anchor-id="getting-started"><span class="header-section-number">2.1</span> Getting started</h2>
 <p>When you join, please introduce yourself in <code>#general</code>. Tell us a little about yourself here — where you are from, what are your interests – science-wise or otherwise, why are you interested in working with us, and in what capacity you’ll be joining us.</p>
-<pre><code>I've never used Slack -- where do I even start?
-Maybe you can start with this [Slack cheatsheet](https://github.com/JRaviLab/cheatsheets/blob/master/slack-misc/slack-cheatsheet.pdf) and these [keyboard shortcuts](https://slack.com/help/articles/201374536-Slack-keyboard-shortcuts).</code></pre>
+<p>I’ve never used Slack -- where do I even start? Maybe you can start with the <a href="https://github.com/JRaviLab/cheatsheets/blob/master/slack-misc/slack-cheatsheet.pdf">Slack cheatsheet</a> and <a href="https://slack.com/help/articles/201374536-Slack-keyboard-shortcuts">Keyboard shortcuts</a>.</p>
 </section>
 <section id="what-next" class="level2" data-number="2.2">
 <h2 data-number="2.2" class="anchored" data-anchor-id="what-next"><span class="header-section-number">2.2</span> What next?</h2>
@@ -186,21 +188,40 @@ A couple of helpful GitHub repositories</p>
 <li><p><a href="https://github.com/jananiravi/compbio-gists" class="uri">https://github.com/jananiravi/compbio-gists</a> (R/Python/Unix/vi/GitHub)</p></li>
 <li><p><a href="https://github.com/jananiravi/workshop-tidyverse" class="uri">https://github.com/jananiravi/workshop-tidyverse</a> (Intro to <code>R's tidyverse package</code> — very useful to learn right away)</p></li>
 <li><p>Other R workshop materials from our R-Ladies East Lansing chapter: <a href="https://github.com/rladies-eastlansing" class="uri">https://github.com/rladies-eastlansing</a></p></li>
-</ul>
-<p>📌 Go to books (also in pinned posts)</p>
+<li><p>Interactive tutorials with <a href="https://rstudio.github.io/learnr/">learnr</a> &amp; <a href="https://swirlstats.com/">swirl</a>.</p></li>
+<li><p><a href="https://datacarpentry.org/R-genomics/index.html">R for Genomics from Data Carpentry</a></p></li>
+<li><p>Coursera</p>
 <ul>
-<li><p><a href="https://r4ds.had.co.nz/" class="uri">https://r4ds.had.co.nz/</a> R for Data Science (for tidyverse and such)</p></li>
-<li><p><a href="https://rstudio-education.github.io/hopr/" class="uri">https://rstudio-education.github.io/hopr/</a> Hands-On Programming with R (for base R)</p></li>
-<li><p><a href="https://happygitwithr.com/" class="uri">https://happygitwithr.com/</a> Happy Git and GitHub for the useR (connecting git/GitHub w/ R)</p></li>
+<li><p><a href="https://www.coursera.org/learn/r-programming-tidyverse">Intro to R programming and tidyverse</a></p></li>
+<li><p><a href="https://www.coursera.org/specializations/jhu-data-visualization-dashboarding-with-r">Data visualization and Dashboarding with R specialization</a></p></li>
+<li><p><a href="https://www.coursera.org/learn/jhu-getting-started-data-viz-r">Getting Started with Data Visualization in R</a></p></li>
+<li><p>… and more | explore by topic, duration, skill-level</p></li>
+</ul></li>
+</ul>
+<p>📌 Go-to books (also in pinned posts on Slack)</p>
+<ul>
+<li><p><a href="https://r4ds.had.co.nz/">R for Data Science</a> (for tidyverse and such)</p></li>
+<li><p><a href="https://rstudio-education.github.io/hopr/">Hands-On Programming with R</a> (for base R)</p></li>
 </ul>
 </section>
 </section>
 </section>
 <section id="github" class="level1" data-number="3">
 <h1 data-number="3"><span class="header-section-number">3</span> GitHub</h1>
-<p>If you haven’t already, please create a professional GitHub account (<em>e.g.,</em> jananiravi). Once you pass that along to us, we will you add you to the [JRaviLab GitHub organization](//github.com/jravilab). Also, a neat memorable username will give you the opportunity to host your own webpage (<em>e.g.,</em> jravilab.github.io or jananiravi.github.io).</p>
+<p>If you haven’t already, please create a professional GitHub account (<em>e.g.,</em> <code>jananiravi</code>). Once you pass that along to us, we will you add you to the <a href="//github.com/jravilab">JRaviLab GitHub organization</a>. Also, a neat memorable username will give you the opportunity to host your own webpage (<em>e.g.,</em> <code>jravilab.github.io</code> or <code>jananiravi.github.io</code>).</p>
+<p>Intro to Git, GitHub resources</p>
+<ul>
+<li><p><a href="https://happygitwithr.com/" class="uri">https://happygitwithr.com/</a> Happy Git and GitHub for the useR (connecting git/GitHub w/ R)</p></li>
+<li><p><a href="https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources">Git and GitHub learning resources</a> from GitHub</p></li>
+<li><p><a href="https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners">Git 101</a></p></li>
+<li><p><a href="https://www.coursera.org/learn/introduction-git-github">Coursera Intro to Git and GitHub course</a></p></li>
+</ul>
+<section id="vpn" class="level2" data-number="3.1">
+<h2 data-number="3.1" class="anchored" data-anchor-id="vpn"><span class="header-section-number">3.1</span> VPN</h2>
+<p>https://www.ucdenver.edu/offices/office-of-information-technology/software/how-do-i-use/vpn-and-remote-access</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -304,12 +325,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
       <a href="./index.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">JRaviLab: behind the scenes</span>
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">JRaviLab</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
       <a href="./meetings.html" class="pagination-link">
-        <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">meetings.html</span></span> <i class="bi bi-arrow-right-short"></i>
+        <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Meetings</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

@@ -2,148 +2,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "JRaviLab",
+    "title": "Lab setup",
     "section": "",
     "text": "This is a short book (built with Quarto) compiled to guide, onboard, and offboard JRaviLab members at the University of Colorado Anschutz Medical Campus.\n\n\nWe appreciate and build upon awesome onboarding group resources from Arjun Krishnan, Fan Zhang, Annika Barber, Christoph Rau, and several others."
   },
   {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "1  Introduction",
+    "objectID": "meetings.html",
+    "href": "meetings.html",
+    "title": "2  Meetings",
     "section": "",
-    "text": "First and foremost, let’s get you on our Slack. All our conversations & every last bit of science gets done here! :) So, please install this on your desktops (phones) and turn on notifications during working hours, whenever that is!"
-  },
-  {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "2  Summary",
-    "section": "",
-    "text": "1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
-  },
-  {
-    "objectID": "slack.html",
-    "href": "slack.html",
-    "title": "2  JRaviLab Slack",
-    "section": "",
-    "text": "When you join, please introduce yourself in #general. Tell us a little about yourself here — where you are from, what are your interests – science-wise or otherwise, why are you interested in working with us, and in what capacity you’ll be joining us.\nI've never used Slack -- where do I even start?\nMaybe you can start with this [Slack cheatsheet](https://github.com/JRaviLab/cheatsheets/blob/master/slack-misc/slack-cheatsheet.pdf) and these [keyboard shortcuts](https://slack.com/help/articles/201374536-Slack-keyboard-shortcuts)."
-  },
-  {
-    "objectID": "slack.html#what-next",
-    "href": "slack.html#what-next",
-    "title": "2  JRaviLab Slack",
-    "section": "2.2 What next?",
-    "text": "2.2 What next?\nNext, you can join the different channels to participate in various kinds of conversations with the group — look at the channel description, check out the pinned messages of the channel, and dive right in! Here are a few examples.\nFinally, you will be invited to specific project channels (based on the primary and secondary projects you will be working on). Based on chats with your colleagues, if you’d like to contribute to/give feedback to other projects, feel free to join those channels too."
-  },
-  {
-    "objectID": "slack.html#tips",
-    "href": "slack.html#tips",
-    "title": "2  JRaviLab Slack",
-    "section": "2.3 💡Tips",
-    "text": "2.3 💡Tips\nIf you are new to R programming, join the #bootcamp channel. Use the #howto-x channels to ask for help/answer others’ questions on R/Py programming, shell scripting, version controlling, or anything else that’s general and not project-specific."
-  },
-  {
-    "objectID": "offboarding.html",
-    "href": "offboarding.html",
-    "title": "4  Offboarding",
-    "section": "",
-    "text": "Please make sure you have checked these boxes before leaving our group.\n\n\nAll your code is on GitHub\n\nAll your processed data files/figures/reports (<100mb) are on GitHub\n\nLarge data files (raw/processed) are on the server (and backed up)\n\nAll your scripts and data files are well-annotated with appropriate README files\n\nAdded detailed status report of where things – what was tried, what worked/didn’t work, where the scripts/data files are, what remains to be done (within the scope of the project, and clear next steps)\n\nYou have reoriented me and at least 1-2 other project members with the precise status (and next steps) of the project and location of files\n\nYou are not a full member of the GitHub organization or Slack anymore but will retain access to the project channel/repo until publication."
-  },
-  {
-    "objectID": "onboarding.html",
-    "href": "onboarding.html",
-    "title": "1  Onboarding",
-    "section": "",
-    "text": "Welcome to JRaviLab! We are excited that you are here — as a student, postdoc, or a visiting researcher!"
-  },
-  {
-    "objectID": "onboarding.html#getting-started",
-    "href": "onboarding.html#getting-started",
-    "title": "1  Onboarding",
-    "section": "2.1 Getting started",
-    "text": "2.1 Getting started\nWhen you join, please introduce yourself in #general. Tell us a little about yourself here — where you are from, what are your interests – science-wise or otherwise, why are you interested in working with us, and in what capacity you’ll be joining us.\nI've never used Slack -- where do I even start?\nMaybe you can start with this [Slack cheatsheet](https://github.com/JRaviLab/cheatsheets/blob/master/slack-misc/slack-cheatsheet.pdf) and these [keyboard shortcuts](https://slack.com/help/articles/201374536-Slack-keyboard-shortcuts)."
-  },
-  {
-    "objectID": "onboarding.html#what-next",
-    "href": "onboarding.html#what-next",
-    "title": "1  Onboarding",
-    "section": "2.2 What next?",
-    "text": "2.2 What next?\nNext, you can join the different channels to participate in various kinds of conversations with the group — look at the channel description, check out the pinned messages of the channel, and dive right in! Here are a few examples.\nFinally, you will be invited to specific project channels (based on the primary and secondary projects you will be working on). Based on chats with your colleagues, if you’d like to contribute to/give feedback to other projects, feel free to join those channels too."
-  },
-  {
-    "objectID": "onboarding.html#tips",
-    "href": "onboarding.html#tips",
-    "title": "1  Onboarding",
-    "section": "2.3 💡Tips",
-    "text": "2.3 💡Tips\n\n2.3.1 Learning R\nIf you are new to R programming, join the #bootcamp channel. Use the #howto-x channels to ask for help/answer others’ questions on R/Py programming, shell scripting, version controlling, or anything else that’s general and not project-specific.\nCheck out the Slack tips in the pinned posts in #how-to-git to get oriented since you are new to Slack. The channel used to be #how-to-slack!\nTo learn R, I would recommend getting started with the pinned posts in #courses-primers.\nA couple of helpful GitHub repositories\n\nhttps://github.com/jananiravi/compbio-gists (R/Python/Unix/vi/GitHub)\nhttps://github.com/jananiravi/workshop-tidyverse (Intro to R's tidyverse package — very useful to learn right away)\nOther R workshop materials from our R-Ladies East Lansing chapter: https://github.com/rladies-eastlansing\n\n📌 Go to books (also in pinned posts)\n\nhttps://r4ds.had.co.nz/ R for Data Science (for tidyverse and such)\nhttps://rstudio-education.github.io/hopr/ Hands-On Programming with R (for base R)\nhttps://happygitwithr.com/ Happy Git and GitHub for the useR (connecting git/GitHub w/ R)"
-  },
-  {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "3  Funding Resources",
-    "section": "",
-    "text": "We strongly encourage trainees to apply for scholarships/fellowships or other grants to help support their independent research and to get acquainted with the process of developing competitive research and personal statements.\nHere are a few scholarship and funding opportunities:"
-  },
-  {
-    "objectID": "resources.html#grad-students",
-    "href": "resources.html#grad-students",
-    "title": "3  Funding Resources",
-    "section": "3.1 Grad students",
-    "text": "3.1 Grad students\n\n3.1.1 CU funding\nhttps://gs.ucdenver.edu/funding/ Graduate tuition for in-state, out of state / non-resident / internationals: https://www.cuanschutz.edu/student-finances/tuition-fees/graduate\nImmigrants vs resident aliens: https://highered.colorado.gov/immigrant-or-resident-alien\n\n\n3.1.2 Training grants\nhttps://www.cuanschutz.edu/graduate-programs/biomedical-sciences-program/resources/grants-and-fellowships\n\n\n3.1.3 AWIS\nhttps://awis.memberclicks.net/"
-  },
-  {
-    "objectID": "resources.html#undergrads",
-    "href": "resources.html#undergrads",
-    "title": "3  Funding Resources",
-    "section": "3.2 Undergrads",
-    "text": "3.2 Undergrads\n\n3.2.1 Colorado Biomedical Informatics Summer Training Fellowship for URM\nhttps://www.cuanschutz.edu/docs/librariesprovider233/compbioscience/deadline-extended_sttp-2022-flyer.pdf. Mail Caitlyn Moloney with questions: caitlin.moloney@cuanschutz.edu\n\n\n3.2.2 PIKE PREP\nUniversity of Colorado (CU) Anschutz Medical Campus Preparation in Interdisciplinary Knowledge to Excel (PIKE) PREP: https://medschool.cuanschutz.edu/colorado-cancer-center/education/pike-prep (URM + citizen + BS in biomedical field)\nFor high school, undergraduate, and graduate/professional students: https://graduateschool.cuanschutz.edu/programs-of-study/summer-programs"
-  },
-  {
-    "objectID": "resources.html#postdocs",
-    "href": "resources.html#postdocs",
-    "title": "3  Funding Resources",
-    "section": "3.3 Postdocs",
-    "text": "3.3 Postdocs\nBeautiful central resource maintained by JHU: https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/"
-  },
-  {
-    "objectID": "resources.html#visiting-researchers",
-    "href": "resources.html#visiting-researchers",
-    "title": "3  Funding Resources",
-    "section": "3.4 Visiting researchers",
-    "text": "3.4 Visiting researchers"
-  },
-  {
-    "objectID": "resources.html#women-in-stem",
-    "href": "resources.html#women-in-stem",
-    "title": "3  Funding Resources",
-    "section": "4.1 Women in STEM",
-    "text": "4.1 Women in STEM\nhttps://www.cuanschutz.edu/services/women-in-stem/resources"
-  },
-  {
-    "objectID": "resources.html#office-of-disability-access-and-inclusion",
-    "href": "resources.html#office-of-disability-access-and-inclusion",
-    "title": "3  Funding Resources",
-    "section": "4.2 Office of Disability, Access, and Inclusion",
-    "text": "4.2 Office of Disability, Access, and Inclusion\nhttps://www.cuanschutz.edu/offices/office-of-disability-access-and-inclusion/home-page"
-  },
-  {
-    "objectID": "resources.html#office-of-diversity-and-inclusion",
-    "href": "resources.html#office-of-diversity-and-inclusion",
-    "title": "3  Funding Resources",
-    "section": "4.3 Office of Diversity and Inclusion",
-    "text": "4.3 Office of Diversity and Inclusion\nhttps://medschool.cuanschutz.edu/deans-office/diversity-inclusion"
-  },
-  {
-    "objectID": "resources.html#writing-center-at-cu-anschutz",
-    "href": "resources.html#writing-center-at-cu-anschutz",
-    "title": "3  Funding Resources",
-    "section": "4.4 Writing Center at CU Anschutz",
-    "text": "4.4 Writing Center at CU Anschutz\nhttps://clas.ucdenver.edu/writing-center/locations/writing-center-cu-anschutz\n2022-04-14 — Faculty mentoring at CHAI"
+    "text": "Associated repo: [group](https://github.com/jravilab/group)"
   }
 ]
