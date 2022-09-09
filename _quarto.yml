@@ -11,10 +11,10 @@ book:
   chapters:
     - index.qmd
     - onboarding.qmd
+    - howto.qmd
     - resources.qmd
     - meetings.qmd
     - offboarding.qmd
-    - references.qmd
 
 bibliography: references.bib
 

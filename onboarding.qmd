@@ -1,9 +1,27 @@
 # Onboarding
 
-Welcome to JRaviLab! We are excited that you are here --- as a student, postdoc, or a visiting researcher!
+Welcome to JRaviLab! We are excited that you are here --- as a student, postdoc, or a visiting researcher! We have a number of resources available in this short e-book and on Slack. Please take the time to check these out. As you read them, if something is unclear, please feel free to reach out to the group anytime.
+
+Once you are done with the 'familiarizing' and getting to know step, please send me (JR) a message on Slack. Please bring your questions, thoughts, feedback to the meeting.
+
+Good luck & welcome aboard! 🎉
+
+# Mission, Expectations, Conduct, Support
+- Mission, expectations, code of conduct
+- Mental health, diversity, safety
+
+_Links and details to follow._
+
+# General Lab Proceedings
+- [Working remotely](https://github.com/JRaviLab/group/blob/master/docs/howto_work_remotely.md)
+- Communication within the group
+- Research update presentations
+- Giving & receiving constructive feedback
+
+_Links and details to follow._
 
 # Slack
-First and foremost, let's get you on our [Slack](https://jravilab.slack.com). All our conversations & every last bit of science gets done here! :) So, please install this on your desktops (phones) and turn on notifications during working hours, whenever that is!
+Since our lab runs on [Slack](https://jravilab.slack.com), let's first get you on there. All our conversations & every last bit of science gets done here! :) So, please install this on your desktops (phones) and turn on notifications during working hours, whenever that is!
 
 ## Getting started
 When you join, please introduce yourself in `#general`. Tell us a little about yourself here --- where you are from, what are your interests -- science-wise or otherwise, why are you interested in working with us, and in what capacity you'll be joining us.
@@ -16,7 +34,8 @@ Next, you can join the different channels to participate in various kinds of con
 Finally, you will be invited to specific project channels (based on the primary and secondary projects you will be working on). Based on chats with your colleagues, if you'd like to contribute to/give feedback to other projects, feel free to join those channels too.
 
 ## Meet the group
-You may have briefly spoken to a few group members prior to joining. Once you are on Slack, use the opportunity to connect with \@grads, \@undergrads, \@postdocs in the group and set up one-on-one meetings. If they are on campus, find a time to take a walk/grab a cup of coffee with them.
+
+You may have briefly spoken to a few group members prior to joining. I urge you to take the first first weeks to introduce yourself to the group members and chat with them (via Slack or over coffee/tea) to find out what they are up to and learn a bit about the lab. 
 
 # GitHub
 If you haven't already, please create a professional GitHub account (*e.g.,* `jananiravi`). Once you pass that along to us, we will you add you to the [JRaviLab GitHub organization](https://github.com/jravilab). Also, a neat memorable username will give you the opportunity to host your own webpage (*e.g.,* `jravilab.github.io` or `jananiravi.github.io`). Our group repo is [here](https://github.com/JRaviLab/group/tree/master/meetings).
@@ -25,45 +44,4 @@ If you haven't already, please create a professional GitHub account (*e.g.,* `ja
 If you have officially joined us as a grad or postdoc, or an undergrad for 3/6+ months, you will automatically get added to our [group webpage](https://jravilab.github.io/#people). If not, please check a few sample pages and furnish me with those details -- I can add you there right away. Also, we use Twitter for professional networking & announcements (connecting with the broader scientific/R/technical communities). If you have a Twitter handle, share it with me (DM), or follow #auto-twitter for updates. You can check out/follow a few accounts maintained by us: [JRaviLab](https://twitter.com/jravilab) | [my handle](https://twitter.com/janani137) | [RLadies-EastLansing](https://twitter.com/rladies-eastlansing) | [Women+ Data Science](https://twitter.com/womenplusdata) | [AsiaR](https://twitter.com/AsiaR-comm) | [ISMB's EvolCompGen COSI](https://twitter.com/EvolComp).
 
 If you would like to co-maintain any of these accounts/webpage, please DM me. I'm always looking for volunteers! :)
-
-# 💡Learning Resources
-
-## Learning R
-
-If you are new to R programming, join the `#bootcamp` channel. Use the `#howto-x` channels to ask for help/answer others' questions on R/Py programming, shell scripting, version controlling, or anything else that's general and not project-specific.
-
-Check out the Slack tips in the pinned posts in [#how-to-git](https://jravilab.slack.com/archives/CATMCKFT9) to get oriented since you are new to Slack. The channel used to be #how-to-slack!
-
-To learn R, I would recommend getting started with the pinned posts in [#courses-primers](https://jravilab.slack.com/archives/CARJ72W3U).
-
-A couple of helpful GitHub repositories
-
--   <https://github.com/jananiravi/compbio-gists> (R/Python/Unix/vi/GitHub)
--   <https://github.com/jananiravi/workshop-tidyverse> (Intro to `R's tidyverse package` --- very useful to learn right away)
--   Other R workshop materials from our R-Ladies East Lansing chapter: <https://github.com/rladies-eastlansing>
--   Interactive tutorials with [learnr](https://rstudio.github.io/learnr/) & [swirl](https://swirlstats.com/).
--   [R for Genomics from Data Carpentry](https://datacarpentry.org/R-genomics/index.html)
--   Coursera
-
-    -   [Intro to R programming and tidyverse](https://www.coursera.org/learn/r-programming-tidyverse)
-    -   [Data visualization and Dashboarding with R specialization](https://www.coursera.org/specializations/jhu-data-visualization-dashboarding-with-r)
-    -   [Getting Started with Data Visualization in R](https://www.coursera.org/learn/jhu-getting-started-data-viz-r)
-    -   ... and more \| explore by topic, duration, skill-level
-
-📌 Go-to books (also in pinned posts on Slack)
-
--   [R for Data Science](https://r4ds.had.co.nz/) (for tidyverse and such)
--   [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) (for base R)
-Intro to Git, GitHub resources
-
-## VPN
-<https://www.ucdenver.edu/offices/office-of-information-technology/software/how-do-i-use/vpn-and-remote-access>
-
-
-## Intro to Git/GitHub/R
-
--   <https://happygitwithr.com/> Happy Git and GitHub for the useR (connecting git/GitHub w/ R)
--   [Git and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources) from GitHub
--   [Git 101](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
--   [Coursera Intro to Git and GitHub course](https://www.coursera.org/learn/introduction-git-github)
 

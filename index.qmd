@@ -1,7 +1,11 @@
 # JRaviLab {.unnumbered}
 
-This is a short book (built with [Quarto](https://quarto.org/docs/books)) compiled to guide, onboard, and offboard JRaviLab members at the University of Colorado Anschutz Medical Campus.
+This is a short book compiled to guide, onboard, and offboard JRaviLab members at the University of Colorado Anschutz Medical Campus.
 
 ### Acknowledgments
 
-We appreciate and build upon awesome onboarding group resources from Arjun Krishnan, Fan Zhang, Annika Barber, Christoph Rau, and several others.
+We appreciate and build upon awesome onboarding group resources from Arjun Krishnan, Fan Zhang, Casey Greene, Annika Barber, Christoph Rau, Jeff Leek, and several others.
+
+✍️ _If you'd like to edit/update/contribute to this short e-book, please [email me](mailto:janani.ravi@cuanschutz.edu) or add a pull request to the [GitHub repository](https://github.com/JRaviLab/lab_setup) directly.
+
+_Built with [Quarto](https://quarto.org/docs/books)._
