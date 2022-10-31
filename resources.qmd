@@ -1,42 +1,44 @@
-# Funding Resources
+# Resources
+
+## Funding resources
 
 We strongly encourage trainees to apply for scholarships/fellowships or other grants to help support their independent research and to get acquainted with the process of developing competitive research and personal statements.
 
 Here are a few scholarship and funding opportunities:
 
-## Grad students
+### Grad students
 
-### CU funding
+#### CU funding
 
 <https://gs.ucdenver.edu/funding/> Graduate tuition for in-state, out of state / non-resident / internationals: <https://www.cuanschutz.edu/student-finances/tuition-fees/graduate>
 
 Immigrants vs resident aliens: <https://highered.colorado.gov/immigrant-or-resident-alien>
 
-### Training grants
+#### Training grants
 
 <https://www.cuanschutz.edu/graduate-programs/biomedical-sciences-program/resources/grants-and-fellowships>
 
-### AWIS
+#### AWIS
 
 <https://awis.memberclicks.net/>
 
-## Undergrads
+### Undergrads
 
-### Colorado Biomedical Informatics Summer Training Fellowship for URM
+#### Colorado Biomedical Informatics Summer Training Fellowship for URM
 
 <https://www.cuanschutz.edu/docs/librariesprovider233/compbioscience/deadline-extended_sttp-2022-flyer.pdf>. Mail Caitlyn Moloney with questions: [caitlin.moloney\@cuanschutz.edu](mailto:caitlin.moloney@cuanschutz.edu)
 
-### PIKE PREP
+#### PIKE PREP
 
 University of Colorado (CU) Anschutz Medical Campus Preparation in Interdisciplinary Knowledge to Excel (PIKE) PREP: <https://medschool.cuanschutz.edu/colorado-cancer-center/education/pike-prep> (URM + citizen + BS in biomedical field)
 
 For high school, undergraduate, and graduate/professional students: <https://graduateschool.cuanschutz.edu/programs-of-study/summer-programs>
 
-## Postdocs
+### Postdocs
 
 Beautiful central resource maintained by JHU: <https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/>
 
-## Visiting researchers
+### Visiting researchers
 
 # Other CU resources
 
@@ -55,6 +57,10 @@ Beautiful central resource maintained by JHU: <https://research.jhu.edu/rdt/fund
 ### Office of Diversity and Inclusion
 
 <https://medschool.cuanschutz.edu/deans-office/diversity-inclusion>
+
+### DEI education, outreach, and recruitment
+
+<https://medschool.cuanschutz.edu/biochemistry/diversity-equity-inclusion>
 
 ## Writing Center at CU Anschutz
 

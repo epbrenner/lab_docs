@@ -1,61 +1,61 @@
-# How to X | Learning Resources
+# How to X \| Learning Resources
 
 ## Get started
+
 If you are new to computational biology and R programming, join the `#bioinfo-bootcamp` channel. Use the `#how-to-x` channels to ask for help/answer others' questions on R/Py programming, shell scripting, version controlling, or anything else that's general and not project-specific. Use the corresponding `#proj-x` channels for all project-related questions.
 
 Check out the Slack tips in the pinned posts in [#how-to-git](https://jravilab.slack.com/archives/CATMCKFT9) to get oriented since you are new to Slack. The channel used to be #how-to-slack!
 
-To re-familiarize yourself with R/Python/Unix, check out these two resources in addition to Slack | [CompBio gists](https://github.com/jananiravi/compbio-gists) and [R-Ladies East Lansing](https://github.com/rladies-eastlansing).
-If you are new to R-Ladies East Lansing and Women+ Data Science, check them out and join [Meetup](https://meetup.com/rladies-eastlansing) and their [Slack](https://rladies-eastlansing.slack.com/) to remain apprised of upcoming events and to connect with the local R and data science communities.
+To re-familiarize yourself with R/Python/Unix, check out these two resources in addition to Slack \| [CompBio gists](https://github.com/jananiravi/compbio-gists) and [R-Ladies East Lansing](https://github.com/rladies-eastlansing). If you are new to R-Ladies East Lansing and Women+ Data Science, check them out and join [Meetup](https://meetup.com/rladies-eastlansing) and their [Slack](https://rladies-eastlansing.slack.com/) to remain apprised of upcoming events and to connect with the local R and data science communities.
 
-💡_If you find other useful resources, please add them to [this list](https://github.com/jananiravi/compbio-gists) (or share them with me)._
+💡*If you find other useful resources, please add them to [this list](https://github.com/jananiravi/compbio-gists) (or share them with me).*
 
 ## Learn R
+
 To learn R, I would recommend getting started with the pinned posts in [#courses-primers](https://jravilab.slack.com/archives/CARJ72W3U).
 
-A couple of helpful GitHub repositories
-- <https://github.com/jananiravi/workshop-tidyverse> (Intro to `R's tidyverse package` --- very useful to learn right away)
-- Other R workshop materials from our R-Ladies East Lansing chapter: <https://github.com/rladies-eastlansing>
-- Interactive tutorials with [learnr](https://rstudio.github.io/learnr/) & [swirl](https://swirlstats.com/).
-- [R for Genomics from Data Carpentry](https://datacarpentry.org/R-genomics/index.html)
-- [R on HPC](https://github.com/JRaviLab/group/tree/master/resources-courses/r-on-hpc)
+A couple of helpful GitHub repositories - <https://github.com/jananiravi/workshop-tidyverse> (Intro to `R's tidyverse package` --- very useful to learn right away) - Other R workshop materials from our R-Ladies East Lansing chapter: <https://github.com/rladies-eastlansing> - Interactive tutorials with [learnr](https://rstudio.github.io/learnr/) & [swirl](https://swirlstats.com/). - [R for Genomics from Data Carpentry](https://datacarpentry.org/R-genomics/index.html) - [R on HPC](https://github.com/JRaviLab/group/tree/master/resources-courses/r-on-hpc)
 
-- Coursera
-  - [Intro to R programming and tidyverse](https://www.coursera.org/learn/r-programming-tidyverse)
-  - [Data visualization and Dashboarding with R specialization](https://www.coursera.org/specializations/jhu-data-visualization-dashboarding-with-r)
-  - [Getting Started with Data Visualization in R](https://www.coursera.org/learn/jhu-getting-started-data-viz-r)
-  - ... and more \| explore by topic, duration, skill-level
+-   Coursera
+    -   [Intro to R programming and tidyverse](https://www.coursera.org/learn/r-programming-tidyverse)
+    -   [Data visualization and Dashboarding with R specialization](https://www.coursera.org/specializations/jhu-data-visualization-dashboarding-with-r)
+    -   [Getting Started with Data Visualization in R](https://www.coursera.org/learn/jhu-getting-started-data-viz-r)
+    -   ... and more \| explore by topic, duration, skill-level
 
 📌 Go-to books (also in pinned posts on Slack)
 
-- [R for Data Science](https://r4ds.had.co.nz/) (for tidyverse and such)
-- [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) (for base R)
-Intro to Git, GitHub resources
+-   [R for Data Science](https://r4ds.had.co.nz/) (for tidyverse and such)
+-   [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) (for base R) Intro to Git, GitHub resources
 
 ## Use VPN
+
 <https://www.ucdenver.edu/offices/office-of-information-technology/software/how-do-i-use/vpn-and-remote-access>
 
-
 ## Learn Git/GitHub
-- <https://happygitwithr.com/> Happy Git and GitHub for the useR (connecting git/GitHub w/ R)
-- [Git and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources) from GitHub
-- [Git 101](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
-- [Coursera Intro to Git and GitHub course](https://www.coursera.org/learn/introduction-git-github)
+
+-   <https://happygitwithr.com/> Happy Git and GitHub for the useR (connecting git/GitHub w/ R)
+-   [Git and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources) from GitHub
+-   [Git 101](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+-   [Coursera Intro to Git and GitHub course](https://www.coursera.org/learn/introduction-git-github)
 
 ## Read/write/present
-- [Read papers](https://github.com/JRaviLab/readingpapers)
-- [Make a poster](https://github.com/JRaviLab/group/blob/master/docs/howto_make_a_poster.md)
-- [Write a paper](https://github.com/JRaviLab/group/blob/master/docs/howto_write_a_paper.md)
+
+-   [Read papers](https://github.com/JRaviLab/readingpapers)
+-   [Make a poster](https://github.com/JRaviLab/group/blob/master/docs/howto_make_a_poster.md)
+-   [Write a paper](https://github.com/JRaviLab/group/blob/master/docs/howto_write_a_paper.md)
 
 ## Code
-- [Write, work with, and manage source code and data](https://github.com/JRaviLab/group/blob/master/docs/howto_write_source_code.md)
-- [Prepare for and carry out code review](https://github.com/JRaviLab/group/blob/master/docs/howto_do_code_review.md)
-- [Share data](https://github.com/jtleek/datasharing)
-- [Write an R package](https://github.com/jtleek/rpackages)
+
+-   [Write, work with, and manage source code and data](https://github.com/JRaviLab/group/blob/master/docs/howto_write_source_code.md)
+-   [Prepare for and carry out code review](https://github.com/JRaviLab/group/blob/master/docs/howto_do_code_review.md)
+-   [Share data](https://github.com/jtleek/datasharing)
+-   [Write an R package](https://github.com/jtleek/rpackages)
 
 ## Plan your semester/year
+
 [Templates](https://github.com/JRaviLab/group/tree/master/docs/templates) on yearly/[semester planning](https://github.com/JRaviLab/group/blob/master/docs/Yearly-Planning-Document.pdf) and professional development are available [here](https://github.com/JRaviLab/group/tree/master/docs).
 
 ## Others
-- [Career development week](https://github.com/JRaviLab/group/blob/master/docs/career_dev_week.md)
-- [Remote Work](https://github.com/JRaviLab/group/blob/master/docs/howto_work_remotely.md) | [CU Remote Work policies]()
+
+-   [Career development week](https://github.com/JRaviLab/group/blob/master/docs/career_dev_week.md)
+-   [Remote Work](https://github.com/JRaviLab/group/blob/master/docs/howto_work_remotely.md) \| [CU Remote Work policies]()

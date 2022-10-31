@@ -3,43 +3,60 @@
 Please update this semester's meeting schedule [here](https://github.com/JRaviLab/group/tree/master/meetings).
 
 ## Format
-_Some logistics_
 
-- GitHub issues/project for detailed project to-do's
-- Shared Outlook Calendar for meetings, deadlines, RLEL & other events!
-- Semester planning meeting (once per sem, during the first month)
-- Slack for everything else! 😃
+-   Monthly group meetings & group socials
+
+-   Biweekly project meetings
+
+-   Biweekly software engg meetings
+
+-   Biweekly collab meetings
+
+-   (Bi)weekly co-work sessions \| whole group, project-wise
+
+## Logistics
+
+-   GitHub issues/project for detailed project to-do's
+-   Shared Outlook Calendar for meetings, deadlines, RLEL & other events!
+-   Semester planning meeting (once per sem, during the first month)
+-   Slack for everything else! 😃
 
 ### Monthly Group Meetings
-TBD
+
+Thu: 10.30a MST / 12.30p EST (2nd Thu)
 
 We usually go around the table, and give quick 5min progress updates from the week before. Alternative, we have scheduled research updates/journal club presentations each month. We could also do separate monthly journal clubs in addition to group meetings.
 
 ### Co-work Sessions 💻
-TBD | whole group / project sub-groups / course-mates / bioinfo primer folks
+
+For the whole group / project sub-groups / course-mates <br> Wed/Thu: 11a-12p MST / 1-2p EST
+
+Bioinfo primer series <br> Wed: 1-2p MST / 3-4p EST
 
 ### Monthly Group Socials ☕ 🍵 🥐
-TBD
 
-- Random discussions/catch-up
-- Online games: https://jackbox.tv | https://drawbattle.io
-- Coffee/tea or ice cream for local folks
-- Once in a while, we can dedicate the group socials to fun topics close to your heart (e.g., music, sports, books, food, ...)!
+Thu: 10.30a MST / 12.30p EST (4th Thu)
+
+-   Random discussions/catch-up
+-   Online games: https://jackbox.tv \| https://drawbattle.io
+-   Coffee/tea or ice cream for local folks
+-   Once in a while, we can dedicate the group socials to fun topics close to your heart (e.g., music, sports, books, food, ...)!
 
 ### Monthly/Weekly individual check-ins:
+
 Book via [calendly](https://calendly.com/jananiravi)
 
 ### Project meetings (15min per person)
 
-- MolEvolvR | TBD
-- Drugrep | TBD
-- AMR | TBD
-- START | TBD
-- Software engg | TBD
+-   Drugrep \| Fri 11a mst (biw)
+-   MolEvolvR/CompGenomeR/AMR \| Thu 11a mst (biw)
+-   START \| Fri 3p mst (mon)
+-   Software engg \| Wed 11a est
 
 ### Collaborations
-- Mycobacteria | Mon, 1–2p EST (biweekly) | w/ OliveLab
-- Staphylococci | Tue, 11–11.30a EST (weekly) | w/ HammerLab
-- Legionella | Wed, 11–12p EST (monthly) | weekly from 2023 | w/ ShamesLab
-- EEPID | Fri, 11-11.30a EST (weekly) | w/ WaleLab
-- Flaviviruses | Starting 2023 | w/ ShahLab
+
+-   Mycobacteria \| Mon, 1--2p EST (biweekly) \| w/ OliveLab
+-   Staphylococci \| Tue, 11--11.30a EST (weekly) \| w/ HammerLab
+-   Legionella \| Wed, 11--12p EST (monthly) \| weekly from 2023 \| w/ ShamesLab
+-   EEPID \| Fri, 11-11.30a EST (weekly) \| w/ WaleLab
+-   Flaviviruses \| Starting 2023 \| w/ ShahLab
