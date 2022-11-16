@@ -43,6 +43,7 @@ A couple of helpful GitHub repositories - <https://github.com/jananiravi/worksho
 -   [Read papers](https://github.com/JRaviLab/readingpapers)
 -   [Make a poster](https://github.com/JRaviLab/group/blob/master/docs/howto_make_a_poster.md)
 -   [Write a paper](https://github.com/JRaviLab/group/blob/master/docs/howto_write_a_paper.md)
+-   [Writing in the Sciences on Coursera](https://www.coursera.org/learn/sciwrite) 
 
 ## Code
 
@@ -58,4 +59,4 @@ A couple of helpful GitHub repositories - <https://github.com/jananiravi/worksho
 ## Others
 
 -   [Career development week](https://github.com/JRaviLab/group/blob/master/docs/career_dev_week.md)
--   [Remote Work](https://github.com/JRaviLab/group/blob/master/docs/howto_work_remotely.md) \| [CU Remote Work policies]()
+-   [Remote work](https://github.com/JRaviLab/group/blob/master/docs/howto_work_remotely.md) \| [CU remote work policy](https://www.ucdenver.edu/docs/librariesprovider284/default-document-library/4000-human-resources/4032---alternative-schedules-and-remote-work-arrangements.pdf?sfvrsn=3ee7f3ba_2) | [CU DBMI remote work agreement](https://app.smartsheet.com/b/form/f5c5dd3f01dc4eefb3711a4fce6955fe)

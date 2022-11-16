@@ -10,7 +10,9 @@ Here are a few scholarship and funding opportunities:
 
 #### CU funding
 
-<https://gs.ucdenver.edu/funding/> Graduate tuition for in-state, out of state / non-resident / internationals: <https://www.cuanschutz.edu/student-finances/tuition-fees/graduate>
+<https://gs.ucdenver.edu/funding/> 
+
+Graduate tuition for in-state, out of state / non-resident / internationals: <https://www.cuanschutz.edu/student-finances/tuition-fees/graduate>
 
 Immigrants vs resident aliens: <https://highered.colorado.gov/immigrant-or-resident-alien>
 
@@ -40,13 +42,13 @@ Beautiful central resource maintained by JHU: <https://research.jhu.edu/rdt/fund
 
 ### Visiting researchers
 
-# Other CU resources
+## Other CU resources
 
-## Women in STEM
+### Women in STEM
 
 <https://www.cuanschutz.edu/services/women-in-stem/resources>
 
-## Central Office of Diversity, Equity, Inclusion and Community Engagement
+### Central Office of Diversity, Equity, Inclusion and Community Engagement
 
 <https://www.cuanschutz.edu/offices/diversity-equity-inclusion-community>
 
@@ -62,6 +64,6 @@ Beautiful central resource maintained by JHU: <https://research.jhu.edu/rdt/fund
 
 <https://medschool.cuanschutz.edu/biochemistry/diversity-equity-inclusion>
 
-## Writing Center at CU Anschutz
+### Writing Center at CU Anschutz
 
 <https://clas.ucdenver.edu/writing-center/locations/writing-center-cu-anschutz>
