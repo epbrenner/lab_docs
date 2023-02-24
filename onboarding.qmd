@@ -1,19 +1,20 @@
 # Onboarding
 
-Welcome to JRaviLab! We are excited that you are here --- as a student, postdoc, or a visiting researcher! We have a number of resources available in this short e-book and on Slack. Please take the time to check these out. As you read them, if something is unclear, please feel free to reach out to the group anytime.
+Welcome to JRaviLab! We are excited that you are here --- as a student, postdoc, or visiting researcher! We have a number of resources available in this short e-book and on Slack. Please take the time to check these out. As you read them, if something is unclear, please feel free to reach out to the group anytime.
 
-Once you are done with the 'familiarizing' and getting to know step, please send me (JR) a message on Slack. Please bring your questions, thoughts, feedback to the meeting.
+Once you are done with the 'familiarizing' and getting to know the first steps, please send me (JR) a message on Slack. Please bring your questions, thoughts, and feedback to the meeting.
 
 Good luck & welcome aboard! 🎉
 
 # Mission, Expectations, Conduct, Support
 
 -   Mission, expectations, code of conduct
--   Mental health, diversity, safety
+-   [Health, wellness](https://jravilab.github.io/lab_setup/resources.html#health-and-wellness), safety
+-   Diversity, accessibility
 
 *Links and details to follow.*
 
-# General Lab Proceedings
+# Lab Proceedings
 
 -   [Working remotely](https://github.com/JRaviLab/group/blob/master/docs/howto_work_remotely.md) \| [CU Remote Work Agreement](https://app.smartsheet.com/b/form/f5c5dd3f01dc4eefb3711a4fce6955fe "CU Anschutz Remote Work Agreement")
 -   Communication within the group \| [Slack](https://jravilab.slack.com "JRaviLab Slack Workspace") \| In-person/Zoom co-work
@@ -24,11 +25,11 @@ Good luck & welcome aboard! 🎉
 
 # Slack
 
-Since our lab runs on [Slack](https://jravilab.slack.com), let's first get you on there. All our conversations & every last bit of science gets done here! :) So, please install this on your desktops (phones) and turn on notifications during working hours, whenever that is!
+Since our lab runs on [Slack](https://jravilab.slack.com), let's first get you on there. All our conversations & every last bit of science get done here! :) So, please install this on your desktops (phones) and turn on notifications during working hours, whenever that is!
 
 ## Getting started
 
-When you join, please introduce yourself in `#general`. Tell us a little about yourself here --- where you are from, what are your interests -- science-wise or otherwise, why are you interested in working with us, and in what capacity you'll be joining us.
+When you join, please introduce yourself in `#general`. Tell us a little about yourself here --- where you are from, what your interests are, science-wise or otherwise, why you are interested in working with us, and in what capacity you'll be joining us.
 
 I've never used Slack \-- where do I even start? Maybe you can start with the [Slack cheatsheet](https://github.com/JRaviLab/cheatsheets/blob/master/slack-misc/slack-cheatsheet.pdf) and [Keyboard shortcuts](https://slack.com/help/articles/201374536-Slack-keyboard-shortcuts).
 
@@ -40,14 +41,14 @@ Finally, you will be invited to specific project channels (based on the primary 
 
 ## Meet the group
 
-You may have briefly spoken to a few group members prior to joining. I urge you to take the first first weeks to introduce yourself to the group members and chat with them (via Slack or over coffee/tea) to find out what they are up to and learn a bit about the lab.
+You may have briefly spoken to a few group members prior to joining. I urge you to take the first few weeks to introduce yourself to the group members and chat with them (via Slack or over coffee/tea) to find out what they are up to and learn a bit about the lab.
 
 # GitHub
 
-If you haven't already, please create a professional GitHub account (e.g., `jananiravi`). Once you pass that along to us, we will you add you to the [JRaviLab GitHub organization](https://github.com/jravilab). Also, a neat memorable username will give you the opportunity to host your own webpage (e.g., `jravilab.github.io` or `jananiravi.github.io`). Our group repo is [here](https://github.com/JRaviLab/group/tree/master/meetings).
+If you haven't already, please create a professional GitHub account (e.g., `jananiravi`) with your full name. Once you pass that along to us, we will add you to the [JRaviLab GitHub organization](https://github.com/jravilab). Also, a neat memorable username will give you the opportunity to host your own webpage (e.g., `jravilab.github.io` or `jananiravi.github.io`). Our group repo is [here](https://github.com/JRaviLab/group/tree/master/meetings).
 
 # Social media
 
-If you have officially joined us as a grad or postdoc, or an undergrad for 3/6+ months, you will automatically get added to our [group webpage](https://jravilab.github.io/#people). If not, please check a few sample pages and furnish me with those details -- I can add you there right away. Also, we use Twitter for professional networking & announcements (connecting with the broader scientific/R/technical communities). If you have a Twitter handle, share it with me (DM), or follow #auto-twitter for updates. You can check out/follow a few accounts maintained by us: [JRaviLab](https://twitter.com/jravilab) \| [my handle](https://twitter.com/janani137) \| [RLadies-EastLansing](https://twitter.com/rladies-eastlansing) \| [Women+ Data Science](https://twitter.com/womenplusdata) \| [AsiaR](https://twitter.com/AsiaR-comm) \| [ISMB EvolCompGen COSI](https://twitter.com/EvolComp). Thanks to recent _interesting_ changes at Twitter, people have been migrating to Mastodon (e.g., [genomic.social](https://genomic.social/explore), [fosstodon](https://fosstodon.org/explore))!
+If you have officially joined us as a grad or postdoc, or undergrad for 3/6+ months, you will automatically get added to our [group webpage](https://jravilab.github.io/#people). If not, please check a few sample pages and furnish me with those details -- I can add you there right away. Also, we use Twitter for professional networking & announcements (connecting with the broader scientific/R/technical communities). If you have a Twitter handle, share it with me (DM), or follow #auto-twitter for updates. You can check out/follow a few accounts maintained by us: [JRaviLab](https://twitter.com/jravilab) \| [my handle](https://twitter.com/janani137) \| [RLadies-EastLansing](https://twitter.com/rladies-eastlansing) \| [Women+ Data Science](https://twitter.com/womenplusdata) \| [AsiaR](https://twitter.com/AsiaR-comm) \| [ISMB EvolCompGen COSI](https://twitter.com/EvolComp). Thanks to recent *interesting* changes at Twitter, people have been migrating to Mastodon (e.g., [genomic.social](https://genomic.social/explore), [fosstodon](https://fosstodon.org/explore))!
 
-If you would like to co-maintain any of these accounts/webpage, please DM me. I'm always looking for volunteers! :)
+If you would like to co-maintain any of these accounts or our webpage, please DM me. I'm always looking for volunteers! :)
