@@ -2,9 +2,9 @@
 
 ## Get started
 
-If you are new to computational biology and R programming, join the `#bioinfo-bootcamp` channel. Use the `#how-to-x` channels to ask for help/answer others' questions on R/Py programming, shell scripting, version controlling, or anything else that's general and not project-specific. Use the corresponding `#proj-x` channels for all project-related questions.
+If you are new to computational biology and R programming, join the `#bioinfo-primers` channel. Use the `#help-x` channels to ask for help/answer others' questions on R/Py programming, shell scripting, version controlling, or anything else that's general and not project-specific. Use the corresponding `#proj-x` channels for all project-related questions.
 
-Check out the Slack tips in the pinned posts in [#how-to-git](https://jravilab.slack.com/archives/CATMCKFT9) to get oriented since you are new to Slack. The channel used to be #how-to-slack!
+Check out the Slack tips in the pinned posts in [#help-](https://jravilab.slack.com/archives/CATMCKFT9)proj_management to get oriented since you are new to Slack (the channel used to be `#howto-slack`)!
 
 To re-familiarize yourself with R/Python/Unix, check out these two resources in addition to Slack \| [CompBio gists](https://github.com/jananiravi/compbio-gists) and [R-Ladies East Lansing](https://github.com/rladies-eastlansing). If you are new to R-Ladies East Lansing and Women+ Data Science, check them out and join [Meetup](https://meetup.com/rladies-eastlansing) and their [Slack](https://rladies-eastlansing.slack.com/) to remain apprised of upcoming events and to connect with the local R and data science communities.
 
@@ -43,7 +43,7 @@ A couple of helpful GitHub repositories - <https://github.com/jananiravi/worksho
 -   [Read papers](https://github.com/JRaviLab/readingpapers)
 -   [Make a poster](https://github.com/JRaviLab/group/blob/master/docs/howto_make_a_poster.md)
 -   [Write a paper](https://github.com/JRaviLab/group/blob/master/docs/howto_write_a_paper.md)
--   [Writing in the Sciences on Coursera](https://www.coursera.org/learn/sciwrite) 
+-   [Writing in the Sciences on Coursera](https://www.coursera.org/learn/sciwrite)
 
 ## Code
 
@@ -51,6 +51,7 @@ A couple of helpful GitHub repositories - <https://github.com/jananiravi/worksho
 -   [Prepare for and carry out code review](https://github.com/JRaviLab/group/blob/master/docs/howto_do_code_review.md)
 -   [Share data](https://github.com/jtleek/datasharing)
 -   [Write an R package](https://github.com/jtleek/rpackages)
+-   [DBMI software engineering team tips & tricks blog posts](https://cu-dbmi.github.io/set-website/blog)
 
 ## Plan your semester/year
 
@@ -59,4 +60,4 @@ A couple of helpful GitHub repositories - <https://github.com/jananiravi/worksho
 ## Others
 
 -   [Career development week](https://github.com/JRaviLab/group/blob/master/docs/career_dev_week.md)
--   [Remote work](https://github.com/JRaviLab/group/blob/master/docs/howto_work_remotely.md) \| [CU remote work policy](https://www.ucdenver.edu/docs/librariesprovider284/default-document-library/4000-human-resources/4032---alternative-schedules-and-remote-work-arrangements.pdf?sfvrsn=3ee7f3ba_2) | [CU DBMI remote work agreement](https://app.smartsheet.com/b/form/f5c5dd3f01dc4eefb3711a4fce6955fe)
+-   [Remote work](https://github.com/JRaviLab/group/blob/master/docs/howto_work_remotely.md) \| [CU remote work policy](https://www.ucdenver.edu/docs/librariesprovider284/default-document-library/4000-human-resources/4032---alternative-schedules-and-remote-work-arrangements.pdf?sfvrsn=3ee7f3ba_2) \| [CU DBMI remote work agreement](https://app.smartsheet.com/b/form/f5c5dd3f01dc4eefb3711a4fce6955fe)
