@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.1.189">
+<meta name="generator" content="quarto-1.2.269">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -156,6 +156,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-title-meta">
 
     
+  
     
   </div>
   
@@ -164,8 +165,8 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="get-started" class="level2" data-number="2.1">
 <h2 data-number="2.1" class="anchored" data-anchor-id="get-started"><span class="header-section-number">2.1</span> Get started</h2>
-<p>If you are new to computational biology and R programming, join the <code>#bioinfo-bootcamp</code> channel. Use the <code>#how-to-x</code> channels to ask for help/answer others’ questions on R/Py programming, shell scripting, version controlling, or anything else that’s general and not project-specific. Use the corresponding <code>#proj-x</code> channels for all project-related questions.</p>
-<p>Check out the Slack tips in the pinned posts in <a href="https://jravilab.slack.com/archives/CATMCKFT9">#how-to-git</a> to get oriented since you are new to Slack. The channel used to be #how-to-slack!</p>
+<p>If you are new to computational biology and R programming, join the <code>#bioinfo-primers</code> channel. Use the <code>#help-x</code> channels to ask for help/answer others’ questions on R/Py programming, shell scripting, version controlling, or anything else that’s general and not project-specific. Use the corresponding <code>#proj-x</code> channels for all project-related questions.</p>
+<p>Check out the Slack tips in the pinned posts in <a href="https://jravilab.slack.com/archives/CATMCKFT9">#help-</a>proj_management to get oriented since you are new to Slack (the channel used to be <code>#howto-slack</code>)!</p>
 <p>To re-familiarize yourself with R/Python/Unix, check out these two resources in addition to Slack | <a href="https://github.com/jananiravi/compbio-gists">CompBio gists</a> and <a href="https://github.com/rladies-eastlansing">R-Ladies East Lansing</a>. If you are new to R-Ladies East Lansing and Women+ Data Science, check them out and join <a href="https://meetup.com/rladies-eastlansing">Meetup</a> and their <a href="https://rladies-eastlansing.slack.com/">Slack</a> to remain apprised of upcoming events and to connect with the local R and data science communities.</p>
 <p>💡<em>If you find other useful resources, please add them to <a href="https://github.com/jananiravi/compbio-gists">this list</a> (or share them with me).</em></p>
 </section>
@@ -217,6 +218,7 @@ ul.task-list li input[type="checkbox"] {
 <li><a href="https://github.com/JRaviLab/group/blob/master/docs/howto_do_code_review.md">Prepare for and carry out code review</a></li>
 <li><a href="https://github.com/jtleek/datasharing">Share data</a></li>
 <li><a href="https://github.com/jtleek/rpackages">Write an R package</a></li>
+<li><a href="https://cu-dbmi.github.io/set-website/blog">DBMI software engineering team tips &amp; tricks blog posts</a></li>
 </ul>
 </section>
 <section id="plan-your-semesteryear" class="level2" data-number="2.7">
@@ -275,7 +277,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
     setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -311,24 +330,42 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-    tippyHover(ref, function() {
-      var popup = window.document.createElement('div');
-      cites.forEach(function(cite) {
-        var citeDiv = window.document.createElement('div');
-        citeDiv.classList.add('hanging-indent');
-        citeDiv.classList.add('csl-entry');
-        var biblioDiv = window.document.getElementById('ref-' + cite);
-        if (biblioDiv) {
-          citeDiv.innerHTML = biblioDiv.innerHTML;
-        }
-        popup.appendChild(citeDiv);
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
       });
-      return popup.innerHTML;
-    });
+    }
   }
 });
 </script>

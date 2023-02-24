@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lab setup",
+    "section": "",
+    "text": "JRaviLab\nThis is a short book compiled to guide, onboard, and offboard JRaviLab members at the University of Colorado Anschutz Medical Campus.\n\nAcknowledgments\nWe appreciate and build upon awesome onboarding group resources from Arjun Krishnan, Fan Zhang, Casey Greene, Annika Barber, Christoph Rau, Jeff Leek, and several others.\n✍️ If you’d like to edit/update/contribute to this short e-book, please email me or add a pull request to the GitHub repository directly.\nBuilt with Quarto."
+  },
+  {
+    "objectID": "onboarding.html",
+    "href": "onboarding.html",
+    "title": "1  Onboarding",
+    "section": "",
+    "text": "2 Mission, Expectations, Conduct, Support\nLinks and details to follow.\nLinks and details to follow.\nSince our lab runs on Slack, let’s first get you on there. All our conversations & every last bit of science get done here! :) So, please install this on your desktops (phones) and turn on notifications during working hours, whenever that is!\nIf you haven’t already, please create a professional GitHub account (e.g., jananiravi) with your full name. Once you pass that along to us, we will add you to the JRaviLab GitHub organization. Also, a neat memorable username will give you the opportunity to host your own webpage (e.g., jravilab.github.io or jananiravi.github.io). Our group repo is here.\nIf you have officially joined us as a grad or postdoc, or undergrad for 3/6+ months, you will automatically get added to our group webpage. If not, please check a few sample pages and furnish me with those details – I can add you there right away. Also, we use Twitter for professional networking & announcements (connecting with the broader scientific/R/technical communities). If you have a Twitter handle, share it with me (DM), or follow #auto-twitter for updates. You can check out/follow a few accounts maintained by us: JRaviLab | my handle | RLadies-EastLansing | Women+ Data Science | AsiaR | ISMB EvolCompGen COSI. Thanks to recent interesting changes at Twitter, people have been migrating to Mastodon (e.g., genomic.social, fosstodon)!\nIf you would like to co-maintain any of these accounts or our webpage, please DM me. I’m always looking for volunteers! :)"
+  },
+  {
+    "objectID": "onboarding.html#getting-started",
+    "href": "onboarding.html#getting-started",
+    "title": "1  Onboarding",
+    "section": "4.1 Getting started",
+    "text": "4.1 Getting started\nWhen you join, please introduce yourself in #general. Tell us a little about yourself here — where you are from, what your interests are, science-wise or otherwise, why you are interested in working with us, and in what capacity you’ll be joining us.\nI’ve never used Slack -- where do I even start? Maybe you can start with the Slack cheatsheet and Keyboard shortcuts."
+  },
+  {
+    "objectID": "onboarding.html#what-next",
+    "href": "onboarding.html#what-next",
+    "title": "1  Onboarding",
+    "section": "4.2 What next?",
+    "text": "4.2 What next?\nNext, you can join the different channels to participate in various kinds of conversations with the group — look at the channel description, check out the pinned messages of the channel, and dive right in! Here are a few examples.\nFinally, you will be invited to specific project channels (based on the primary and secondary projects you will be working on). Based on chats with your colleagues, if you’d like to contribute to/give feedback to other projects, feel free to join those channels too."
+  },
+  {
+    "objectID": "onboarding.html#meet-the-group",
+    "href": "onboarding.html#meet-the-group",
+    "title": "1  Onboarding",
+    "section": "4.3 Meet the group",
+    "text": "4.3 Meet the group\nYou may have briefly spoken to a few group members prior to joining. I urge you to take the first few weeks to introduce yourself to the group members and chat with them (via Slack or over coffee/tea) to find out what they are up to and learn a bit about the lab."
+  },
+  {
+    "objectID": "howto.html#get-started",
+    "href": "howto.html#get-started",
+    "title": "2  How to X | Learning Resources",
+    "section": "2.1 Get started",
+    "text": "2.1 Get started\nIf you are new to computational biology and R programming, join the #bioinfo-primers channel. Use the #help-x channels to ask for help/answer others’ questions on R/Py programming, shell scripting, version controlling, or anything else that’s general and not project-specific. Use the corresponding #proj-x channels for all project-related questions.\nCheck out the Slack tips in the pinned posts in #help-proj_management to get oriented since you are new to Slack (the channel used to be #howto-slack)!\nTo re-familiarize yourself with R/Python/Unix, check out these two resources in addition to Slack | CompBio gists and R-Ladies East Lansing. If you are new to R-Ladies East Lansing and Women+ Data Science, check them out and join Meetup and their Slack to remain apprised of upcoming events and to connect with the local R and data science communities.\n💡If you find other useful resources, please add them to this list (or share them with me)."
+  },
+  {
+    "objectID": "howto.html#learn-r",
+    "href": "howto.html#learn-r",
+    "title": "2  How to X | Learning Resources",
+    "section": "2.2 Learn R",
+    "text": "2.2 Learn R\nTo learn R, I would recommend getting started with the pinned posts in #courses-primers.\nA couple of helpful GitHub repositories - https://github.com/jananiravi/workshop-tidyverse (Intro to R's tidyverse package — very useful to learn right away) - Other R workshop materials from our R-Ladies East Lansing chapter: https://github.com/rladies-eastlansing - Interactive tutorials with learnr & swirl. - R for Genomics from Data Carpentry - R on HPC\n\nCoursera\n\nIntro to R programming and tidyverse\nData visualization and Dashboarding with R specialization\nGetting Started with Data Visualization in R\n… and more | explore by topic, duration, skill-level\n\n\n📌 Go-to books (also in pinned posts on Slack)\n\nR for Data Science (for tidyverse and such)\nHands-On Programming with R (for base R) Intro to Git, GitHub resources"
+  },
+  {
+    "objectID": "howto.html#use-vpn",
+    "href": "howto.html#use-vpn",
+    "title": "2  How to X | Learning Resources",
+    "section": "2.3 Use VPN",
+    "text": "2.3 Use VPN\nhttps://www.ucdenver.edu/offices/office-of-information-technology/software/how-do-i-use/vpn-and-remote-access"
+  },
+  {
+    "objectID": "howto.html#learn-gitgithub",
+    "href": "howto.html#learn-gitgithub",
+    "title": "2  How to X | Learning Resources",
+    "section": "2.4 Learn Git/GitHub",
+    "text": "2.4 Learn Git/GitHub\n\nhttps://happygitwithr.com/ Happy Git and GitHub for the useR (connecting git/GitHub w/ R)\nGit and GitHub learning resources from GitHub\nGit 101\nCoursera Intro to Git and GitHub course"
+  },
+  {
+    "objectID": "howto.html#readwritepresent",
+    "href": "howto.html#readwritepresent",
+    "title": "2  How to X | Learning Resources",
+    "section": "2.5 Read/write/present",
+    "text": "2.5 Read/write/present\n\nRead papers\nMake a poster\nWrite a paper\nWriting in the Sciences on Coursera"
+  },
+  {
+    "objectID": "howto.html#code",
+    "href": "howto.html#code",
+    "title": "2  How to X | Learning Resources",
+    "section": "2.6 Code",
+    "text": "2.6 Code\n\nWrite, work with, and manage source code and data\nPrepare for and carry out code review\nShare data\nWrite an R package\nDBMI software engineering team tips & tricks blog posts"
+  },
+  {
+    "objectID": "howto.html#plan-your-semesteryear",
+    "href": "howto.html#plan-your-semesteryear",
+    "title": "2  How to X | Learning Resources",
+    "section": "2.7 Plan your semester/year",
+    "text": "2.7 Plan your semester/year\nTemplates on yearly/semester planning and professional development are available here."
+  },
+  {
+    "objectID": "howto.html#others",
+    "href": "howto.html#others",
+    "title": "2  How to X | Learning Resources",
+    "section": "2.8 Others",
+    "text": "2.8 Others\n\nCareer development week\nRemote work | CU remote work policy | CU DBMI remote work agreement"
+  },
+  {
+    "objectID": "resources.html#funding",
+    "href": "resources.html#funding",
+    "title": "3  Resources",
+    "section": "3.1 Funding",
+    "text": "3.1 Funding\nWe strongly encourage trainees to apply for scholarships/fellowships or other grants to help support their independent research and to get acquainted with the process of developing competitive research and personal statements.\nHere are a few scholarship and funding opportunities:\n\n3.1.1 Grad students\n\nGraduate student funding opportunities (c/o JHU)\n@CUDenver\nNSF GRFP\nNIH F30, F31\nGraduate tuition for in-state, out-of-state, non-resident, international students\nImmigrants vs resident aliens\n\n\n3.1.1.1 Training grants\nhttps://www.cuanschutz.edu/graduate-programs/biomedical-sciences-program/resources/grants-and-fellowships\n\n\n3.1.1.2 AWIS\nhttps://awis.memberclicks.net\n\n\n\n3.1.2 Undergrads/postbacs\n\nColorado Biomedical Informatics Summer Training Fellowship for URM Mail Caitlin Moloney with questions: caitlin.moloney@cuanschutz.edu\nLoan repayment program\nUniversity of Colorado Anschutz Medical Campus Preparation in Interdisciplinary Knowledge to Excel (PIKE) PREP (URM + citizen + BS in biomedical field)\nFor high school, undergraduate, and graduate/professional students\n\n\n\n3.1.3 Postdocs\n\nBeautiful central resource maintained by JHU\nPostdoctoral fellowships for international scholars\nNIH F32, K99/R00\n\n\n\n3.1.4 Other\n\nAnschutz Funding and Fellowships\nLudeman Center for Women’s Health Research"
+  },
+  {
+    "objectID": "resources.html#cu-resources",
+    "href": "resources.html#cu-resources",
+    "title": "3  Resources",
+    "section": "3.2 CU resources",
+    "text": "3.2 CU resources\n\n3.2.1 Health and Wellness\nCU Anschutz: Mental health| Health and Wellness Center\nMSU: Mental health| Student Health & Wellness| Fitness\n\n\n3.2.2 Women in STEM\n\n\n3.2.3 DEIJAR\n\nCentral Office of Diversity, Equity, Inclusion, and Community Engagement\nOffice of Disability, Access, and Inclusion\nOffice of Diversity and Inclusion\nDEI education, outreach, and recruitment\n\n\n\n3.2.4 Writing Center at CU Anschutz"
+  },
+  {
+    "objectID": "meetings.html#format",
+    "href": "meetings.html#format",
+    "title": "4  Meetings",
+    "section": "4.1 Format",
+    "text": "4.1 Format\n\nMonthly group meetings, group socials, co-work sessions\nMonthly bioinfo/programming primers (w/ DBMI SET)\nWeekly project meetings\nBiweekly software engg meetings\nBiweekly/monthly collab meetings"
+  },
+  {
+    "objectID": "meetings.html#logistics",
+    "href": "meetings.html#logistics",
+    "title": "4  Meetings",
+    "section": "4.2 Logistics",
+    "text": "4.2 Logistics\n\nGitHub issues/project for detailed project to-do’s\nShared Outlook Calendar for meetings, deadlines, RLEL & other events!\nSemester planning meeting (once per sem, during the first month)\nSlack for everything else! 😃\n\n\n4.2.1 Monthly Group Meetings\nFri: 1p MST / 3p EST\nWe usually go around the table and give quick 5min progress updates from the week before. Alternatively, we can schedule research updates/journal club presentations each month or host separate monthly journal clubs.\n\n\n4.2.2 Co-work Sessions 💻\nFor the whole group  Fri: 1-2p MST / 3-4p EST\nBioinfo primer series  Fri: 1–2.30p MST / 3–4.30p EST\n\n\n4.2.3 Monthly Group Socials ☕ 🍵 🥐\nFri: 1p MST / 3p EST\n\nRandom discussions/catch-up\nOnline games: https://jackbox.tv | https://drawbattle.io\nCoffee/tea or ice cream for local folks\nOnce in a while, we can dedicate the group socials to fun topics close to your heart (e.g., music, sports, books, food, …)!\n\n\n\n4.2.4 Monthly/Weekly individual check-ins:\nBook via Outlook bookings.\n\n\n4.2.5 Project meetings (15min per person)\n\nHost response & frugrep | Fri 2p MST (biw)\nMolEvolvR/CompGenomics/AMR | Fri 11a MST (wk)\nSTART | Fri 3p MST (mon)\nSoftware engg | Wed 11a MST (biw)\n\n\n\n4.2.6 Collaborations\n\nStaphylococci | Wed, 1p MST / 3p EST (biw) | w/ HammerLab (MSU)\nDisease gene expression | Mon, 11a MST / 1p EST (biw) | w/ KrishnanLab (CU)\nLegionella | Wed, 1p MST / 3p EST (mon) | weekly from 2023 | w/ ShamesLab (MSU)\nEEPID | TBD (biw) | w/ WaleLab (MSU)\nAMR omics | Wed, 3p MST (wk) | w/ ChatterjeeLab (UC Boulder)"
+  },
+  {
+    "objectID": "offboarding.html",
+    "href": "offboarding.html",
+    "title": "5  Offboarding",
+    "section": "",
+    "text": "We are delighted to have been a part of your research life. We wish you great laurels as you move on to the next phase of your career.\nPlease make sure you have checked these boxes before leaving our group.\n\nAll your code is on GitHub\nAll your processed data files/figures/reports (<100mb) are on GitHub\nLarge data files (raw/processed) are on the server (and backed up)\nAll your scripts and data files are well-annotated with appropriate README files\nAdded detailed status report of where things – what was tried, what worked/didn’t work, where the scripts/data files are, what remains to be done (within the scope of the project, and clear next steps)\nYou have reoriented me and at least 1-2 other project members with the precise status (and next steps) of the project and location of files\nYou are not a full member of the GitHub organization or Slack anymore but will retain access to the project channel/repo until publication.\nIf you have worked with us for ≥3mo, you will remain a part of #the-continuum channel on our Slack."
+  }
+]
