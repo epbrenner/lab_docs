@@ -4,15 +4,15 @@ Please update this semester's meeting schedule [here](https://github.com/JRaviLa
 
 ## Format
 
--   Monthly group meetings & group socials
+-   Monthly group meetings, group socials, co-work sessions
 
--   Biweekly project meetings
+-   Monthly bioinfo/programming primers (w/ [DBMI SET](https://cu-dbmi.github.io/set-website/about))
+
+-   Weekly project meetings
 
 -   Biweekly software engg meetings
 
--   Biweekly collab meetings
-
--   (Bi)weekly co-work sessions \| whole group, project-wise
+-   Biweekly/monthly collab meetings
 
 ## Logistics
 
@@ -23,19 +23,19 @@ Please update this semester's meeting schedule [here](https://github.com/JRaviLa
 
 ### Monthly Group Meetings
 
-Thu: 11a MST / 1p EST (2nd Thu)
+Fri: 1p MST / 3p EST
 
-We usually go around the table, and give quick 5min progress updates from the week before. Alternative, we have scheduled research updates/journal club presentations each month. We could also do separate monthly journal clubs in addition to group meetings.
+We usually go around the table and give quick 5min progress updates from the week before. Alternatively, we can schedule research updates/journal club presentations each month or host separate monthly journal clubs.
 
 ### Co-work Sessions 💻
 
-For the whole group / project sub-groups / course-mates <br> Wed/Thu: 11a-12p MST / 1-2p EST
+For the whole group <br> Fri: 1-2p MST / 3-4p EST
 
-Bioinfo primer series <br> Monday: 11a--12p MST / 1--2p EST
+Bioinfo primer series <br> Fri: 1--2.30p MST / 3--4.30p EST
 
 ### Monthly Group Socials ☕ 🍵 🥐
 
-Thu: 10.30a MST / 12.30p EST (4th Thu)
+Fri: 1p MST / 3p EST
 
 -   Random discussions/catch-up
 -   Online games: https://jackbox.tv \| https://drawbattle.io
@@ -48,16 +48,15 @@ Book via [Outlook bookings](https://bit.ly/janani-cucal).
 
 ### Project meetings (15min per person)
 
--   Drugrep \| Fri 11a MST (biw)
--   MolEvolvR/CompGenomics/AMR \| Thu 11a MST (biw)
+-   Host response & frugrep \| Fri 2p MST (biw)
+-   MolEvolvR/CompGenomics/AMR \| Fri 11a MST (wk)
 -   START \| Fri 3p MST (mon)
--   Software engg \| Wed 11a MST
+-   Software engg \| Wed 11a MST (biw)
 
 ### Collaborations
 
--   Mycobacteria \| Mon, 1--2p EST (biweekly) \| w/ OliveLab (MSU)
--   Staphylococci \| Tue, 11--11.30a EST (weekly) \| w/ HammerLab (MSU)
--   Legionella \| Wed, 11--12p EST (monthly) \| weekly from 2023 \| w/ ShamesLab (MSU)
--   EEPID \| Fri, 11-11.30a EST (weekly) \| w/ WaleLab (MSU)
--   AMR omics \| Starting 2023 \| w/ ChatterjeeLab (UC Boulder)
--   Flaviviruses \| Starting 2023 \| w/ ShahLab (UCDavis)
+-   Staphylococci \| Wed, 1p MST / 3p EST (biw) \| w/ HammerLab (MSU)
+-   Disease gene expression \| Mon, 11a MST / 1p EST (biw) \| w/ KrishnanLab (CU)
+-   Legionella \| Wed, 1p MST / 3p EST (mon) \| weekly from 2023 \| w/ ShamesLab (MSU)
+-   EEPID \| TBD (biw) \| w/ WaleLab (MSU)
+-   AMR omics \| Wed, 3p MST (wk) \| w/ ChatterjeeLab (UC Boulder)
