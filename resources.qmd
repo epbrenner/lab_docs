@@ -1,6 +1,6 @@
 # Resources
 
-## Funding resources
+## Funding
 
 We strongly encourage trainees to apply for scholarships/fellowships or other grants to help support their independent research and to get acquainted with the process of developing competitive research and personal statements.
 
@@ -8,13 +8,17 @@ Here are a few scholarship and funding opportunities:
 
 ### Grad students
 
-#### CU funding
+-   [Graduate student funding opportunities (c/o JHU)](https://research.jhu.edu/rdt/funding-opportunities/graduate)
 
-<https://gs.ucdenver.edu/funding/> 
+-   [\@CUDenver](https://gs.ucdenver.edu/funding)
 
-Graduate tuition for in-state, out of state / non-resident / internationals: <https://www.cuanschutz.edu/student-finances/tuition-fees/graduate>
+-   [NSF GRFP](https://www.cuanschutz.edu/offices/career-development/funding-resources#ac-nsf-grfp-fellowships-0)
 
-Immigrants vs resident aliens: <https://highered.colorado.gov/immigrant-or-resident-alien>
+-   [NIH F30, F31](https://www.cuanschutz.edu/offices/career-development/funding-resources#ac-nih-nrsa-fellowships-f30-f31-f32-and-k99r00s-1)
+
+-   [Graduate tuition for in-state, out-of-state, non-resident, international students](https://www.cuanschutz.edu/student-finances/tuition-fees/graduate)
+
+-   [Immigrants vs resident aliens](https://highered.colorado.gov/immigrant-or-resident-alien)
 
 #### Training grants
 
@@ -22,48 +26,47 @@ Immigrants vs resident aliens: <https://highered.colorado.gov/immigrant-or-resid
 
 #### AWIS
 
-<https://awis.memberclicks.net/>
+[https://awis.memberclicks.net](https://awis.memberclicks.net/){.uri}
 
-### Undergrads
+### Undergrads/postbacs
 
-#### Colorado Biomedical Informatics Summer Training Fellowship for URM
+-   [Colorado Biomedical Informatics Summer Training Fellowship for URM](https://www.cuanschutz.edu/docs/librariesprovider233/compbioscience/deadline-extended_sttp-2022-flyer.pdf) Mail Caitlin Moloney with questions: [caitlin.moloney\@cuanschutz.edu](mailto:caitlin.moloney@cuanschutz.edu)
 
-<https://www.cuanschutz.edu/docs/librariesprovider233/compbioscience/deadline-extended_sttp-2022-flyer.pdf>. Mail Caitlyn Moloney with questions: [caitlin.moloney\@cuanschutz.edu](mailto:caitlin.moloney@cuanschutz.edu)
+-   [Loan repayment program](https://www.lrp.nih.gov)
 
-#### PIKE PREP
+-   [University of Colorado Anschutz Medical Campus Preparation in Interdisciplinary Knowledge to Excel (PIKE) PREP](https://medschool.cuanschutz.edu/colorado-cancer-center/education/pike-prep) (URM + citizen + BS in biomedical field)
 
-University of Colorado (CU) Anschutz Medical Campus Preparation in Interdisciplinary Knowledge to Excel (PIKE) PREP: <https://medschool.cuanschutz.edu/colorado-cancer-center/education/pike-prep> (URM + citizen + BS in biomedical field)
-
-For high school, undergraduate, and graduate/professional students: <https://graduateschool.cuanschutz.edu/programs-of-study/summer-programs>
+-   [For high school, undergraduate, and graduate/professional students](https://graduateschool.cuanschutz.edu/programs-of-study/summer-programs)
 
 ### Postdocs
 
-Beautiful central resource maintained by JHU: <https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/>
+-   [Beautiful central resource maintained by JHU](https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/)
 
-### Visiting researchers
+-   [Postdoctoral fellowships for international scholars](https://www.cuanschutz.edu/offices/career-development/funding-resources#ac-postdoctoral-fellowships-for-international-scholars-2)
 
-## Other CU resources
+-   [NIH F32, K99/R00](https://www.cuanschutz.edu/offices/career-development/funding-resources#ac-nih-nrsa-fellowships-f30-f31-f32-and-k99r00s-1)
 
-### Women in STEM
+### Other
 
-<https://www.cuanschutz.edu/services/women-in-stem/resources>
+-   [Anschutz Funding and Fellowships](https://www.cuanschutz.edu/offices/career-development/funding-resources)
 
-### Central Office of Diversity, Equity, Inclusion and Community Engagement
+-   [Ludeman Center for Women's Health Research](https://medschool.cuanschutz.edu/center-for-womens-health-research/researchers-academics/funding)
 
-<https://www.cuanschutz.edu/offices/diversity-equity-inclusion-community>
+## CU resources
 
-### Office of Disability, Access, and Inclusion
+### Health and Wellness
 
-<https://www.cuanschutz.edu/offices/office-of-disability-access-and-inclusion/home-page>
+CU Anschutz: [Mental health](https://www.cuanschutz.edu/mental-health-resources)\| [Health and Wellness Center](https://anschutzwellness.com)
 
-### Office of Diversity and Inclusion
+MSU: [Mental health](https://caps.msu.edu)\| [Student Health & Wellness](https://studenthealth.msu.edu)\| [Fitness](https://healthpromotion.msu.edu/fitness)
 
-<https://medschool.cuanschutz.edu/deans-office/diversity-inclusion>
+### [Women in STEM](https://www.cuanschutz.edu/services/women-in-stem/resources)
 
-### DEI education, outreach, and recruitment
+### DEIJAR
 
-<https://medschool.cuanschutz.edu/biochemistry/diversity-equity-inclusion>
+-   [Central Office of Diversity, Equity, Inclusion, and Community Engagement](https://www.cuanschutz.edu/offices/diversity-equity-inclusion-community)
+-   [Office of Disability, Access, and Inclusion](https://www.cuanschutz.edu/offices/office-of-disability-access-and-inclusion/home-page)
+-   [Office of Diversity and Inclusion](https://medschool.cuanschutz.edu/deans-office/diversity-inclusion)
+-   [DEI education, outreach, and recruitment](https://medschool.cuanschutz.edu/biochemistry/diversity-equity-inclusion)
 
-### Writing Center at CU Anschutz
-
-<https://clas.ucdenver.edu/writing-center/locations/writing-center-cu-anschutz>
+### [Writing Center at CU Anschutz](https://clas.ucdenver.edu/writing-center/locations/writing-center-cu-anschutz)
