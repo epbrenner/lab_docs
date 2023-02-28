@@ -9,7 +9,7 @@ Good luck & welcome aboard! 🎉
 # Mission, Expectations, Conduct, Support
 
 -   Mission, expectations, code of conduct
--   [Health, wellness](https://jravilab.github.io/lab_setup/resources.html#health-and-wellness), safety
+-   [Health, wellness](https://jravilab.github.io/lab_docs/resources.html#health-and-wellness), safety
 -   Diversity, accessibility
 
 *Links and details to follow.*

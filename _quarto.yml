@@ -4,8 +4,8 @@ project:
   output-dir: docs
 
 book:
-  title: "Lab setup"
-  subtitle: "JRaviLab"
+  title: "JRaviLab docs"
+  subtitle: "For members of the JRaviLab: past, present, and future!"
   author: "Janani Ravi"
   #date: `r date()`
   chapters:

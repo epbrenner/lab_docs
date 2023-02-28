@@ -10,7 +10,7 @@ Please make sure you have checked these boxes before leaving our group.
 
 -   [ ] Large data files (raw/processed) are on the server (and backed up)
 
--   [ ] All your scripts and data files are well-annotated with appropriate README files
+-   [ ] All your scripts and data files are well-annotated with appropriate `README` files
 
 -   [ ] Added detailed status report of where things -- what was tried, what worked/didn't work, where the scripts/data files are, what remains to be done (within the scope of the project, and clear next steps)
 
@@ -19,3 +19,9 @@ Please make sure you have checked these boxes before leaving our group.
 -   [ ] You are not a full member of the GitHub organization or Slack anymore but will retain access to the project channel/repo until publication.
 
 -   [ ] If you have worked with us for ≥3mo, you will remain a part of `#the-continuum` channel on our Slack.
+
+Good luck! 
+
+## Stay in touch
+[Webpage](https://jravilab.github.io) | [PI](https://jravilab.github.io/#about) | [Twitter](https://twitter.com/jravilab) | [Mastodon](https://genomic.social/@jravilab) | [Email](mailto:janani.ravi@cuanschutz.edu)
+
