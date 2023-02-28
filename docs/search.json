@@ -37,56 +37,56 @@
   {
     "objectID": "howto.html#get-started",
     "href": "howto.html#get-started",
-    "title": "2  How to X | Learning Resources",
+    "title": "2  How to X",
     "section": "2.1 Get started",
     "text": "2.1 Get started\nIf you are new to computational biology and R programming, join the #bioinfo-primers channel. Use the #help-x channels to ask for help/answer others’ questions on R/Py programming, shell scripting, version controlling, or anything else that’s general and not project-specific. Use the corresponding #proj-x channels for all project-related questions.\nCheck out the Slack tips in the pinned posts in #help-proj_management to get oriented since you are new to Slack (the channel used to be #howto-slack)!\nTo re-familiarize yourself with R/Python/Unix, check out these two resources in addition to Slack | CompBio gists and R-Ladies East Lansing. If you are new to R-Ladies East Lansing and Women+ Data Science, check them out and join Meetup and their Slack to remain apprised of upcoming events and to connect with the local R and data science communities.\n💡If you find other useful resources, please add them to this list (or share them with me)."
   },
   {
     "objectID": "howto.html#learn-r",
     "href": "howto.html#learn-r",
-    "title": "2  How to X | Learning Resources",
+    "title": "2  How to X",
     "section": "2.2 Learn R",
     "text": "2.2 Learn R\nTo learn R, I would recommend getting started with the pinned posts in #courses-primers.\nA couple of helpful GitHub repositories - https://github.com/jananiravi/workshop-tidyverse (Intro to R's tidyverse package — very useful to learn right away) - Other R workshop materials from our R-Ladies East Lansing chapter: https://github.com/rladies-eastlansing - Interactive tutorials with learnr & swirl. - R for Genomics from Data Carpentry - R on HPC\n\nCoursera\n\nIntro to R programming and tidyverse\nData visualization and Dashboarding with R specialization\nGetting Started with Data Visualization in R\n… and more | explore by topic, duration, skill-level\n\n\n📌 Go-to books (also in pinned posts on Slack)\n\nR for Data Science (for tidyverse and such)\nHands-On Programming with R (for base R) Intro to Git, GitHub resources"
   },
   {
     "objectID": "howto.html#use-vpn",
     "href": "howto.html#use-vpn",
-    "title": "2  How to X | Learning Resources",
+    "title": "2  How to X",
     "section": "2.3 Use VPN",
     "text": "2.3 Use VPN\nhttps://www.ucdenver.edu/offices/office-of-information-technology/software/how-do-i-use/vpn-and-remote-access"
   },
   {
     "objectID": "howto.html#learn-gitgithub",
     "href": "howto.html#learn-gitgithub",
-    "title": "2  How to X | Learning Resources",
+    "title": "2  How to X",
     "section": "2.4 Learn Git/GitHub",
     "text": "2.4 Learn Git/GitHub\n\nhttps://happygitwithr.com/ Happy Git and GitHub for the useR (connecting git/GitHub w/ R)\nGit and GitHub learning resources from GitHub\nGit 101\nCoursera Intro to Git and GitHub course"
   },
   {
     "objectID": "howto.html#readwritepresent",
     "href": "howto.html#readwritepresent",
-    "title": "2  How to X | Learning Resources",
+    "title": "2  How to X",
     "section": "2.5 Read/write/present",
     "text": "2.5 Read/write/present\n\nRead papers\nMake a poster\nWrite a paper\nWriting in the Sciences on Coursera"
   },
   {
     "objectID": "howto.html#code",
     "href": "howto.html#code",
-    "title": "2  How to X | Learning Resources",
+    "title": "2  How to X",
     "section": "2.6 Code",
     "text": "2.6 Code\n\nWrite, work with, and manage source code and data\nPrepare for and carry out code review\nShare data\nWrite an R package\nDBMI software engineering team tips & tricks blog posts"
   },
   {
     "objectID": "howto.html#plan-your-semesteryear",
     "href": "howto.html#plan-your-semesteryear",
-    "title": "2  How to X | Learning Resources",
+    "title": "2  How to X",
     "section": "2.7 Plan your semester/year",
     "text": "2.7 Plan your semester/year\nTemplates on yearly/semester planning and professional development are available here."
   },
   {
     "objectID": "howto.html#others",
     "href": "howto.html#others",
-    "title": "2  How to X | Learning Resources",
+    "title": "2  How to X",
     "section": "2.8 Others",
     "text": "2.8 Others\n\nCareer development week\nRemote work | CU remote work policy | CU DBMI remote work agreement"
   },
@@ -122,7 +122,14 @@
     "objectID": "offboarding.html#stay-in-touch",
     "href": "offboarding.html#stay-in-touch",
     "title": "5  Offboarding",
-    "section": "5.1 Stay in touch",
-    "text": "5.1 Stay in touch\nWebpage | PI | Twitter | Mastodon | Email"
+    "section": "5.2 Stay in touch",
+    "text": "5.2 Stay in touch\nWebpage | PI | Twitter | Mastodon | Email"
+  },
+  {
+    "objectID": "offboarding.html#ready-to-head-out",
+    "href": "offboarding.html#ready-to-head-out",
+    "title": "5  Offboarding",
+    "section": "5.1 Ready to head out?",
+    "text": "5.1 Ready to head out?\nPlease make sure you have checked these boxes before leaving our group.\n\nAll your code is on GitHub\nAll your processed data files/figures/reports (<100mb) are on GitHub\nLarge data files (raw/processed) are on the server (and backed up)\nAll your scripts and data files are well-annotated with appropriate README files\nAdded detailed status report of where things – what was tried, what worked/didn’t work, where the scripts/data files are, what remains to be done (within the scope of the project, and clear next steps)\nYou have reoriented me and at least 1-2 other project members with the precise status (and next steps) of the project and location of files\nYou are not a full member of the GitHub organization or Slack anymore but will retain access to the project channel/repo until publication.\nIf you have worked with us for ≥3mo, you will remain a part of #the-continuum channel on our Slack.\n\nGood luck!"
   }
 ]
