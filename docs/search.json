@@ -119,17 +119,17 @@
     "text": "4.2 Logistics\n\nGitHub issues/project for detailed project to-do’s\nShared Outlook Calendar for meetings, deadlines, RLEL & other events!\nSemester planning meeting (once per sem, during the first month)\nSlack for everything else! 😃\n\n\n4.2.1 Monthly Group Meetings\nFri: 1p MST / 3p EST\nWe usually go around the table and give quick 5min progress updates from the week before. Alternatively, we can schedule research updates/journal club presentations each month or host separate monthly journal clubs.\n\n\n4.2.2 Co-work Sessions 💻\nFor the whole group  Fri: 1-2p MST / 3-4p EST\nBioinfo primer series  Fri: 1–2.30p MST / 3–4.30p EST\n\n\n4.2.3 Monthly Group Socials ☕ 🍵 🥐\nFri: 1p MST / 3p EST\n\nRandom discussions/catch-up\nOnline games: https://jackbox.tv | https://drawbattle.io\nCoffee/tea or ice cream for local folks\nOnce in a while, we can dedicate the group socials to fun topics close to your heart (e.g., music, sports, books, food, …)!\n\n\n\n4.2.4 Monthly/Weekly individual check-ins:\nBook via Outlook bookings.\n\n\n4.2.5 Project meetings (15min per person)\n\nHost response & frugrep | Fri 2p MST (biw)\nMolEvolvR/CompGenomics/AMR | Fri 11a MST (wk)\nSTART | Fri 3p MST (mon)\nSoftware engg | Wed 11a MST (biw)\n\n\n\n4.2.6 Collaborations\n\nStaphylococci | Wed, 1p MST / 3p EST (biw) | w/ HammerLab (MSU)\nDisease gene expression | Mon, 11a MST / 1p EST (biw) | w/ KrishnanLab (CU)\nLegionella | Wed, 1p MST / 3p EST (mon) | weekly from 2023 | w/ ShamesLab (MSU)\nEEPID | TBD (biw) | w/ WaleLab (MSU)\nAMR omics | Wed, 3p MST (wk) | w/ ChatterjeeLab (UC Boulder)"
   },
   {
+    "objectID": "offboarding.html#ready-to-head-out",
+    "href": "offboarding.html#ready-to-head-out",
+    "title": "5  Offboarding",
+    "section": "5.1 Ready to head out?",
+    "text": "5.1 Ready to head out?\nPlease make sure you have checked these boxes before leaving our group.\n\nAll your code is on GitHub\nAll your processed data files/figures/reports (<100mb) are on GitHub\nLarge data files (raw/processed) are on the server (and backed up)\nAll your scripts and data files are well-annotated with appropriate README files\nAdded detailed status report of where things – what was tried, what worked/didn’t work, where the scripts/data files are, what remains to be done (within the scope of the project, and clear next steps)\nYou have reoriented me and at least 1-2 other project members with the precise status (and next steps) of the project and the location of files\nYou are not a full member of our GitHub organization, Slack workspace, Google Drive, or Outlook Calendar anymore but will retain access to the project channel/repo until publication (or complete transition to other project members).\nIf you are switching from being a full member to a collaborator, you will now only have collaborator privileges on Slack, GitHub, and Google Drive, until you are done with the project/your term with the collaborator.\nIf you have worked with us for a considerable period of time, you will remain a part of #the-continuum channel on our Slack.\n\nGood luck!"
+  },
+  {
     "objectID": "offboarding.html#stay-in-touch",
     "href": "offboarding.html#stay-in-touch",
     "title": "5  Offboarding",
     "section": "5.2 Stay in touch",
     "text": "5.2 Stay in touch\nWebpage | PI | Twitter | Mastodon | Email"
-  },
-  {
-    "objectID": "offboarding.html#ready-to-head-out",
-    "href": "offboarding.html#ready-to-head-out",
-    "title": "5  Offboarding",
-    "section": "5.1 Ready to head out?",
-    "text": "5.1 Ready to head out?\nPlease make sure you have checked these boxes before leaving our group.\n\nAll your code is on GitHub\nAll your processed data files/figures/reports (<100mb) are on GitHub\nLarge data files (raw/processed) are on the server (and backed up)\nAll your scripts and data files are well-annotated with appropriate README files\nAdded detailed status report of where things – what was tried, what worked/didn’t work, where the scripts/data files are, what remains to be done (within the scope of the project, and clear next steps)\nYou have reoriented me and at least 1-2 other project members with the precise status (and next steps) of the project and location of files\nYou are not a full member of the GitHub organization or Slack anymore but will retain access to the project channel/repo until publication.\nIf you have worked with us for ≥3mo, you will remain a part of #the-continuum channel on our Slack.\n\nGood luck!"
   }
 ]
