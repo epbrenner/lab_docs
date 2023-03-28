@@ -16,11 +16,13 @@ Please make sure you have checked these boxes before leaving our group.
 
 -   [ ] Added detailed status report of where things -- what was tried, what worked/didn't work, where the scripts/data files are, what remains to be done (within the scope of the project, and clear next steps)
 
--   [ ] You have reoriented me and at least 1-2 other project members with the precise status (and next steps) of the project and location of files
+-   [ ] You have reoriented me and at least 1-2 other project members with the precise status (and next steps) of the project and the location of files
 
--   [ ] You are not a full member of the GitHub organization or Slack anymore but will retain access to the project channel/repo until publication.
+-   [ ] You are not a full member of our GitHub organization, Slack workspace, Google Drive, or Outlook Calendar anymore but will retain access to the project channel/repo until publication (or complete transition to other project members).
 
--   [ ] If you have worked with us for ≥3mo, you will remain a part of `#the-continuum` channel on our Slack.
+-   [ ] If you are switching from being a full member to a collaborator, you will now only have collaborator privileges on Slack, GitHub, and Google Drive, until you are done with the project/your term with the collaborator.
+
+-   [ ] If you have worked with us for a considerable period of time, you will remain a part of `#the-continuum` channel on our Slack.
 
 Good luck!
 
