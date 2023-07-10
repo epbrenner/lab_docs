@@ -12,6 +12,8 @@ Good luck & welcome aboard! 🎉
 -   [Health, wellness](https://jravilab.github.io/lab_docs/resources.html#health-and-wellness), safety
 -   Diversity, accessibility
 
+We value believe in investing in and nurturing scientists as much as the science. We pride ourselves on providing a safe and inclusive space for people across intersectionalities. We are committed to mentoring (postdocs, students, programmers), education and outreach, and personalized professional development. We are passionate about finding ways to increase diversity and retention in STEM and quantitative sciences. If you share our passion, please [reach out to us](//jravilab.github.io/joinus)!
+
 *Links and details to follow.*
 
 # Lab Proceedings
@@ -49,6 +51,6 @@ If you haven't already, please create a professional GitHub account (e.g., `jana
 
 # Social media
 
-If you have officially joined us as a grad or postdoc, or undergrad for 3/6+ months, you will automatically get added to our [group webpage](https://jravilab.github.io/#people). If not, please check a few sample pages and furnish me with those details -- I can add you there right away. Also, we use Twitter for professional networking & announcements (connecting with the broader scientific/R/technical communities). If you have a Twitter handle, share it with me (DM), or follow #auto-twitter for updates. You can check out/follow a few accounts maintained by us: [JRaviLab](https://twitter.com/jravilab) \| [my handle](https://twitter.com/janani137) \| [RLadies-EastLansing](https://twitter.com/rladies-eastlansing) \| [Women+ Data Science](https://twitter.com/womenplusdata) \| [AsiaR](https://twitter.com/AsiaR-comm) \| [ISMB EvolCompGen COSI](https://twitter.com/EvolComp). Thanks to recent *interesting* changes at Twitter, people have been migrating to Mastodon (e.g., [genomic.social](https://genomic.social/explore), [fosstodon](https://fosstodon.org/explore))!
+If you have officially joined us as a grad or postdoc, or undergrad for 3/6+ months, you will automatically get added to our [group webpage](https://jravilab.github.io/#people). If not, please check a few sample pages and furnish me with those details -- I can add you there right away. Also, we use Twitter for professional networking & announcements (connecting with the broader scientific/R/technical communities). If you have a Twitter handle, share it with me (DM), or follow #auto-twitter for updates. You can check out/follow a few accounts maintained by us: [JRaviLab](https://twitter.com/jravilab) \| [my handle](https://twitter.com/janani137) \| [RLadies-Aurora](https://twitter.com/rladies-aurora) \| [RLadies-EastLansing](https://twitter.com/rladies-eastlansing) \| [Women+ Data Science](https://twitter.com/womenplusdata) \| [AsiaR](https://twitter.com/AsiaR-comm) \| [ISMB EvolCompGen COSI](https://twitter.com/EvolComp). Thanks to recent *interesting* changes at Twitter, people have been migrating to Mastodon (e.g., [genomic.social](https://genomic.social/explore), [fosstodon](https://fosstodon.org/explore))!
 
 If you would like to co-maintain any of these accounts or our webpage, please DM me. I'm always looking for volunteers! :)

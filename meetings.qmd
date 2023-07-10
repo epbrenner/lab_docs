@@ -1,18 +1,18 @@
 # Meetings
 
-Please update this semester's meeting schedule [here](https://github.com/JRaviLab/group/tree/master/meetings).
+Please update this semester's meeting schedule [here](https://docs.google.com/spreadsheets/d/14919WwHIiKFFBcYZgF9wxACIYqh-gW-2QeDyM4WU28E/edit#gid=0).
 
 ## Format
 
--   Monthly group meetings, group socials, co-work sessions
+-   Weekly group meetings, group socials, co-work sessions
 
--   Monthly bioinfo/programming primers (w/ [DBMI SET](https://cu-dbmi.github.io/set-website/about))
+-   Weekly bioinfo/programming primers (w/ [DBMI SET](https://cu-dbmi.github.io/set-website/about))
 
 -   Weekly project meetings
 
--   Biweekly software engg meetings
+-   Weekly software engg meetings
 
--   Biweekly/monthly collab meetings
+-   (Bi)weekly/monthly collab meetings
 
 ## Logistics
 
@@ -21,21 +21,17 @@ Please update this semester's meeting schedule [here](https://github.com/JRaviLa
 -   Semester planning meeting (once per sem, during the first month)
 -   Slack for everything else! 😃
 
-### Monthly Group Meetings
+### Weekly Group Meetings
 
-Fri: 1p MST / 3p EST
+Thu: 10a MST / 12p EST
 
 We usually go around the table and give quick 5min progress updates from the week before. Alternatively, we can schedule research updates/journal club presentations each month or host separate monthly journal clubs.
 
-### Co-work Sessions 💻
-
-For the whole group <br> Fri: 1-2p MST / 3-4p EST
-
-Bioinfo primer series <br> Fri: 1--2.30p MST / 3--4.30p EST
+[Bioinfo primer series](https://github.com/JRaviLab/bioinfo-primers) <br> Mon: 11a--12p MST / 1--2p EST
 
 ### Monthly Group Socials ☕ 🍵 🥐
 
-Fri: 1p MST / 3p EST
+<TBD>
 
 -   Random discussions/catch-up
 -   Online games: https://jackbox.tv \| https://drawbattle.io
@@ -46,17 +42,14 @@ Fri: 1p MST / 3p EST
 
 Book via [Outlook bookings](https://bit.ly/janani-cucal).
 
-### Project meetings (15min per person)
+### Project meetings (~15min per person)
 
--   Host response & frugrep \| Fri 2p MST (biw)
--   MolEvolvR/CompGenomics/AMR \| Fri 11a MST (wk)
--   START \| Fri 3p MST (mon)
--   Software engg \| Wed 11a MST (biw)
+-   Microbial G2P (MolEvolvR/CompGenomeR/AMR) \| Tue 10a MST (wk)
+-   Software engg (MolEvolvR, server, & such) \| Wed 9.15a MST (wk) \| DBMI-SET (CU)
+-   Host response and disease/drug gene expression \| Wed, 10a MST / 12p EST (wk) \| w/ KrishnanLab (CU)
+-   EEPID \| Wed, 11a (wk) \| w/ WaleLab (MSU)
+-   Legionella \| Wed, 1p MST / 3p EST (mon) \| w/ ShamesLab (MSU)
+-   AMR omics \| Wed, 3p MST (wk) \| w/ ChatterjeeLab (UC Boulder) | _paused_
 
-### Collaborations
-
--   Staphylococci \| Wed, 1p MST / 3p EST (biw) \| w/ HammerLab (MSU)
--   Disease gene expression \| Mon, 11a MST / 1p EST (biw) \| w/ KrishnanLab (CU)
--   Legionella \| Wed, 1p MST / 3p EST (mon) \| weekly from 2023 \| w/ ShamesLab (MSU)
--   EEPID \| TBD (biw) \| w/ WaleLab (MSU)
--   AMR omics \| Wed, 3p MST (wk) \| w/ ChatterjeeLab (UC Boulder)
+### DBMI seminar schedule
+Posted by the [DBMI seminar committee](https://github.com/jananiravi/dbmi_seminar)
