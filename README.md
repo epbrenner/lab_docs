@@ -7,7 +7,7 @@ This is a short e-book compiled to guide, onboard, and offboard JRaviLab members
 
 ### Acknowledgments
 
-We appreciate and build upon awesome group onboarding resources from Arjun Krishnan, Fan Zhang, Casey Greene, Annika Barber, Christoph Rau, Jeff Leek, and several others.
+We appreciate and build upon awesome onboarding resources from Arjun Krishnan, Fan Zhang, Casey Greene, Annika Barber, Christoph Rau, Jeff Leek, elife, and several others.
 
 ✍️ If you'd like to edit/update/contribute to this e-book (*built with [Quarto](https://quarto.org/docs/books)*), please [email me](mailto:janani.ravi@cuanschutz.edu) or submit a pull request to the [GitHub repository](https://github.com/JRaviLab/lab_docs) directly.
 
