@@ -16,6 +16,40 @@ We value believe in investing in and nurturing scientists as much as the science
 
 *Links and details to follow.*
 
+# Roles and expectations:
+
+## Undergraduates
+-   
+-   
+-   
+
+
+## Research associates (PRAs)
+-   
+-   
+-   
+
+
+## Graduate students
+-   
+-   
+-   
+
+
+## Postdoctoral fellows (Postdocs)
+
+As a postdoctoral researcher, you wear many hats in addition to those of more junior scientists in the lab.
+
+-   A postdoctoral position is a training opportunity -- you are here to learn new skills and expand your scientific boundaries. You are not expected to know everything, but you should be comfortable (and preferably excited!) throwing yourself into new problems and solving them.
+-   You are also here to help others learn. Postdocs have considerable experience in many aspects typically involving academia, research, and more. That experience can be very helpful for scientists who are earlier in their own careers. Contribute generously where you can, and make yourself available for ohers in the group. A rising tide lifts all boats.
+-   You may work on a number of existing projects across the lab, either leading them or helping each team navigate research obstacles. Postdocs have already had experience troubleshooting their way through their work in the past, and are expected to be able to leverage that experience by operating more independently. Some projects you work on might be new and higher risk, and some might be stalled and in need of a fresh perspective.
+-   In addition, postdocs are strongly encouraged to pursue their own independent research interests along paths related to the work we do. For projects that succeed, they should have "future directions" that a postdoc can take forward into their own, independent careers in the future.
+-   Grant writing is a crucial aspect of a postdoc's job. It both funds your position and your research where possible, and most critically, gives you practice and experience seeking and applying for funding opportunities needed for launching into independent faculty positions.
+-   Communicating science is extremely important, be it through manuscripts, conference presentations, or workshops. Expect to keep busy presenting the work you do to others, and use the experience to get your name out there and network!
+-   Finding your next step is the ultimate goal of your position. For all the roles you have, they should help focus your skillset, your CV, and open future opportunties for you to move onwards and upwards towards where you want to end up in life.  
+
+## Principal Investigator (PI)
+
 # Lab Proceedings
 
 -   [Working remotely](https://github.com/JRaviLab/group/blob/master/docs/howto_work_remotely.md) \| [CU Remote Work Agreement](https://app.smartsheet.com/b/form/f5c5dd3f01dc4eefb3711a4fce6955fe "CU Anschutz Remote Work Agreement")
