@@ -1,0 +1,62 @@
+# Lab culture
+
+## Mission, Expectations, Conduct, Support
+### Mission
+We value believe in investing in and nurturing scientists as much as the science.
+We pride ourselves on providing a safe and inclusive space for people across intersectionalities.
+We are committed to mentoring (postdocs, students, programmers), education and outreach, and personalized professional development.
+We are passionate about finding ways to increase diversity and retention in STEM and quantitative sciences.
+If you share our passion, please [reach out to us](//jravilab.github.io/joinus)!
+
+### Roles and expectations
+## PI
+
+### Mentoring philosophy
+
+
+## Postdocs
+
+
+## Graduate students
+
+
+## Research associates (PRAs)
+
+
+## Undergraduates
+
+
+## Short-term interns/Visiting scientists
+
+
+### Code of conduct
+
+
+### Health and wellness
+[Health, wellness](https://jravilab.github.io/lab_docs/resources.html#health-and-wellness), safety
+
+### Inclusive and safe space
+Diversity, accessibility
+[currently also part of mission but explicit pointers can go here]
+
+*Links and details to follow.*
+
+## Lab Proceedings
+### Meetings and formats
+[More details here]()
+-   Research update presentations
+-   Giving & receiving constructive feedback
+
+### Communication
+-   Communication within the group \| [Slack](https://jravilab.slack.com "JRaviLab Slack Workspace") \| In-person/Zoom co-work
+
+### Remote work & working hours
+-   [Working remotely](https://github.com/JRaviLab/group/blob/master/docs/howto_work_remotely.md) \| [CU Remote Work Agreement](https://app.smartsheet.com/b/form/f5c5dd3f01dc4eefb3711a4fce6955fe "CU Anschutz Remote Work Agreement")
+
+### Leave policy
+
+*Links and details to follow.*
+
+
+## Publication, Authorship, & Research Ethics
+
