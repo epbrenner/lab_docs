@@ -16,10 +16,16 @@ We value believe in investing in and nurturing scientists as much as the science
 
 *Links and details to follow.*
 
-## Undergraduate
+# Role-Specific Expectations
+
+## Undergraduates
 
 Welcome to the JRaviLab — we’re excited to have you! This may be your first research experience, and we understand that the onboarding process can feel overwhelming. Know that everyone is here to support and guide you as you navigate your research journey. Chances are, conducting independent research will be much different from your previous academic experiences, so we have compiled a list of pointers to help you understand your roles and expectations as an undergraduate researcher.
--   **Be present.** Attend meetings, and bring forth your best effort.
+
+<details>
+<summary>Roles and expectations for undergrads</summary>
+
+-   **Be present.** Attend meetings and bring forth your best effort.
 -   **Ask for help.** We encourage you to be proactive; ask questions and provide any updates or ideas to our Slack channels.
 -   **Strive for growth.** It will be challenging, but we want you to keep trying and to persist – learning is the main goal, and being receptive and open to constructive feedback is a great way to improve.
 -   **Give yourself grace.** You’ve earned a spot in our community, and you belong here. Failure is inevitable with the work we’re doing; your work doesn’t define you or your abilities. We’re all here for you!
@@ -27,12 +33,13 @@ Welcome to the JRaviLab — we’re excited to have you! This may be your first 
 -   **Collaborate.** We encourage you to present your work and discuss with others frequently. Learn about the projects your labmates are working on, communicate any troubles or issues before they boil (work-related and not), and keep a positive mental attitude!
 -   **Own your research.** This is *your* research process, so be sure that you’re putting forth your best work and that you continue to practice scientific reading and writing.
 -   **Take advantage of resources.** There are many avenues for learning in research. Here are a few to get you started:
-    -   [JRaviLab: How to X](https://jravilab.github.io/lab_docs/howto.html)
-    -   Slack channels
-    -   [Stack Overflow](https://stackoverflow.com/)
-    -   [NIH NCBI](https://www.ncbi.nlm.nih.gov/pmc/)
-    -   Google, [Google Scholar](https://scholar.google.com/)
-    -   [ChatGPT](https://chat.openai.com/auth/login)
+    + [JRaviLab: How to X](https://jravilab.github.io/lab_docs/howto.html)
+    + Slack channels
+    + [Stack Overflow](https://stackoverflow.com/)
+    + [NIH NCBI](https://www.ncbi.nlm.nih.gov/pmc/)
+    + Google, [Google Scholar](https://scholar.google.com/)
+    + [ChatGPT](https://chat.openai.com/auth/login)
+</details>
 
 # Lab Proceedings
 
