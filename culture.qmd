@@ -19,6 +19,79 @@ If you share our passion, please [reach out to us](//jravilab.github.io/joinus)!
 
 ## Graduate students
 
+#### Ph.D. students
+
+- Strive to be independent and creative.
+- Be willing to learn new things and be open-minded to new ideas.
+- Engage in lab activities.
+- Attend all required meetings specific to your project, one-on-one and group meetings. All others will be optional. We encourage you to join optional meetings so you have a general understanding of the other projects.
+- Interact professionally with all your peers and everyone on the floor. 
+- Establish clear deadlines/ academic plans, e.g., comprehensive exam, defense. 
+- Mentor junior students by giving primers, helping them troubleshoot anything related to their projects, helping them contact the correct individuals when you can't help them, and answering their questions.
+- Have a clear understanding of concepts related to your research project.
+- Keep up with the literature and have a sound reading system.
+- Have good time management skills. Ensure you have an efficient work-life balance to maintain physical and mental health.
+- Reproducibility
+- Writing clean and well-documented code.
+
+*Communication Roles*
+- Communicate well with the PI(s) on research, academic progress, and other professional development goals.
+- Maintain a good frequency of one-on-one meetings, especially if you work with multiple PIs. Do your best to keep both PIs on the same page.
+- Interpersonal communications
+- Come prepared for all the meetings by noting what questions you have, your future steps, or the results you want to present.
+
+*Science communication Roles*
+- Formal/semi-formal scientific writing, e.g., abstracts, manuscripts, blog posts
+- Give oral presentations in different settings, e.g., group meetings, posters, talks, research updates, and journal club meetings.
+- Keep well-organized meeting notes.
+- Check emails and Outlook lab calendar daily.
+- Look out for opportunities that Janani often posts in the lab Slack, the DBMI Slack, or email. Opportunities to look out for are but are not limited to funding, poster events, presentation, conferences, seminars, and courses. 
+
+*Semester planning* 
+- Set goals for professional and personal development. Below is a general list of what semester planning entails. 
+  1. Academic planning: required/elective courses  
+  2. Take on leadership roles through mentoring or presenting.
+  3. Attending seminars and conferences
+  4. Volunteering
+  5. Set recurring meetings with the PI(s) and attending project meetings.
+
+*Masters Student*
+
+- Strive to be independent and creative.
+- Be willing to learn new things and be open-minded to new ideas.
+- Engage in lab activities.
+- Attend all required meetings specific to your project, one-on-one and group meetings. All others will be optional. We encourage you to join optional meetings so you have a general understanding of the other projects.
+- Interact professionally with all your peers and everyone on the floor. 
+- Establish clear deadlines/academic plans. Some tasks with deadlines are but are not limited to thesis, internship presentations/reports, poster abstracts, and primer presentations. 
+- Be a team player by helping to mentor junior students by giving primers, helping them troubleshoot anything related to their projects, helping them contact the correct individuals when you can't help them, and answering their questions.
+- Commit your work often to Github.
+- Work often on developing your computational skills and learning how to apply biological concepts to computational problems.
+- Writing clean and well-documented code.
+- Have a clear understanding of concepts related to your research project.
+- Have good time management skills. Ensure you have an efficient work-life balance to maintain physical and mental health.
+- Your work must be reproducible, so abide by rules to ensure reproducibility. The following link will take you to the [Ten Simple Rules for Reproducible Computational Research](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285). This short paper will give you an insight into some rules you can follow to help maintain reproducibility when doing computational research.
+
+*Communication Roles*
+- Communicate well with the PI(s) on research, academic progress, and other professional development goals.
+- Maintain a good frequency of one-on-one meetings, especially if you work with multiple PIs. Do your best to keep both PIs on the same page.
+- Setting recurring meetings with the PI(s) and attending project meetings.
+- Come prepared for all the meetings by noting what questions you have, your future steps, or the results you want to present.
+
+*Scientific Communication Roles*
+- Practice your scientific writing, including but not limited to writing abstracts and sections of manuscripts.
+- Give oral presentations in different settings. These presentations can occur in group meetings, posters, talks, research updates, and journal club meetings.
+- Keep well-organized meeting notes.
+- Check emails and Outlook lab calendar daily.
+- Look out for opportunities that Janani often posts in the lab Slack, the DBMI Slack, or email. Opportunities to look out for are but are not limited to funding, poster events, presentation, seminars, conferences, and courses. 
+
+*Semester planning* 
+- Set goals for professional and personal development. Below is a general list of what to include in your semester planning. 
+  1. Academic planning; deciding what required/elective courses to take each semester.
+  2. Taking on leadership roles through mentoring or presenting opportunities.
+  3. Attending seminars and conferences.
+  4. Read a journal article related to your project or any other of the lab's projects at least once a week.
+
+
 
 ## Research associates (PRAs)
 
